@@ -11,10 +11,10 @@ const homepageLawyers = () => (
       <p className="max-500 ml-5vw">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in dolor scelerisque, porta elit ac, porta nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in dolor scelerisque, porta elit ac, porta nibh.</p>
     </div>
     <div className="featured-lawyers">
-      <img src={don1} />
-      <img src={don1} />
-      <img src={don1} />
-      <img src={don1} />
+      <div className="lawyer" />
+      <div className="lawyer" />
+      <div className="lawyer" />
+      <div className="lawyer" />
     </div>
     <Link to="/our-team/" className="uppercase" class="fatlink">Meet the entire Hnatyshyn-Gough team</Link>
 </div>

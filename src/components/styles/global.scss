@@ -116,6 +116,10 @@ a{
   font-weight:700;
   border-bottom:2px solid $red;
 }
+.fatlink:hover{
+  border-bottom: 2px solid #3E4049;
+  color:#3E4049;
+}
 .ital{
   font-style: italic;
 }
