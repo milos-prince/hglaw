@@ -26,14 +26,24 @@ $popsicle: linear-gradient(90deg, rgba(150,6,209,1) 0%, rgba(209,56,223,1) 16%, 
   display: flex;
   justify-content: space-between;
   padding:200px $indent;
+  @media screen and (max-width:1100px) {
+    flex-direction: column;
+  }
   .homepage-about-a{
     height:100%;
     width:60%;
     max-width: 500px;
+    @media screen and (max-width:1100px) {
+      width:100%;
+      max-width:100%;
+    }
   }
   .homepage-about-b{
     height:100%;
     width:40%;
+    @media screen and (max-width:1100px) {
+      display:none;
+    }
     .bg-color-block{
       position: relative;
       left:100px;
@@ -56,6 +66,15 @@ $popsicle: linear-gradient(90deg, rgba(150,6,209,1) 0%, rgba(209,56,223,1) 16%, 
   background: #F9F9F9;
   padding:100px $indent;
 
+  @media screen and (max-width:675px){
+    .homepage-team-text{
+      flex-direction: column;
+    }
+    .ml-5vw{
+      margin-left:0px;
+    }
+  }
+
   .featured-lawyers{
     display: flex;
     justify-content: space-evenly;
@@ -74,22 +93,4 @@ $popsicle: linear-gradient(90deg, rgba(150,6,209,1) 0%, rgba(209,56,223,1) 16%, 
   background: url(../../images/homepageFooterImage.jpg);
   background-position: center;
   background-size: cover;
-}
-
-/*footer breakpoint*/
-@media only screen and (max-width: 820px) {
-  .footerContent{
-    flex-direction: column;
-    margin: auto;
-    width:300px;
-  }
- 
-  .quoteblock p{
-    padding:60px;
-    font-size:18px;
-  }
-  .quoteblock{
-    margin-left:-6vw;
-    width:90vw;
-  }
 }
