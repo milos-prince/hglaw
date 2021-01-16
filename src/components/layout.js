@@ -12,6 +12,7 @@ import { Link } from "gatsby"
 import Header from "./header"
 import "./styles/layout.css"
 import "./styles/global.scss"
+import logo from "../images/logo.png"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -31,6 +32,7 @@ const Layout = ({ children }) => {
         <main style={{maxWidth:1800, margin:'auto'}}>{children}</main>
         <footer>
           <div className="footerContent">
+            <img src={logo} className="footer-logo" />
             <div>
             <p>601-402 21st Street East 
             <br />Saskatoon, Saskatchewan, Canada <br />S7K 0C3</p>

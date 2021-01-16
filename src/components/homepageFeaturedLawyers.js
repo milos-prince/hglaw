@@ -1,5 +1,4 @@
 import React from "react"
-import don1 from "../images/harvey1.png"
 import { Link } from "gatsby"
 
 

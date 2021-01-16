@@ -12,10 +12,11 @@ class Collapsible extends Component {
     togglePanel(e){
     this.setState({open: !this.state.open})
     }
+    
   render() {
     return (
   <div>
-        <div onClick={(e)=>this.togglePanel(e)} className='hamburgerButton'><img src={hamburger} id="hamburger" /></div>
+        <div onClick={(e)=>this.togglePanel(e)} className='hamburgerButton'>{!this.state.open ?<img src={hamburger} id="hamburger" />:<p id="close-hamburger">&#10005;</p>}</div>
         
         {this.state.open ? (
         <div className='mobileNav navOpen'>

@@ -115,6 +115,7 @@ a{
   text-decoration: none;
   font-weight:700;
   border-bottom:2px solid $red;
+  text-transform: uppercase;
 }
 .fatlink:hover{
   border-bottom: 2px solid #3E4049;
@@ -203,6 +204,11 @@ align-items: center;
   height:30px;
   margin-bottom: 0px;
 }
+#close-hamburger{
+  font-size:30px;
+  margin-bottom:0px;
+  font-weight:700;
+}
 footer{
   background:#3D3D45;
   color:white;
@@ -214,6 +220,14 @@ footer{
     font-family: 'montserrat';
     margin-bottom:10px;
     font-size:14px;
+  }
+  .footer-logo{
+    width:180px;
+    height:80px;
+    @media screen and (max-width:525px) {
+      margin:auto;
+      margin-bottom:30px;
+    }
   }
 }
 footer a{

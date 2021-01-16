@@ -17,8 +17,18 @@ const IndexPage = () => (
       </p>
       </div>
     </section>
-    <section>
-
+    <section className="our-team-content">
+      <div className="team-grid-wrapper">
+        <div className="test"></div>
+        <div className="test"></div>
+        <div className="test"></div>
+        <div className="test"></div>
+        <div className="test"></div>
+        <div className="test"></div>
+        <div className="test"></div>
+        <div className="test"></div>
+        <div className="test"></div>
+      </div>
     </section>
   </Layout>
 )
