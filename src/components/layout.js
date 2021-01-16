@@ -11,7 +11,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import "./layout.css"
-import "./custom.css"
+import "./custom.scss"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -28,14 +28,15 @@ const Layout = ({ children }) => {
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
       <div>
-        <main>{children}</main>
+        <main style={{maxWidth:1800, margin:'auto'}}>{children}</main>
         <footer>
           <div className="footerContent">
             <div>
-            <h2>Leslie Belloc-Pinder, Q.C.</h2>
-            <p>601-402 21st Street East <br />Saskatoon, SK S7K 0C3</p>
-            <p>In association with Hnatyshyn Gough Law Firm
-            <br /><a href="https://www.hglaw.ca">www.hglaw.ca</a></p>
+            <p>601-402 21st Street East 
+            <br />Saskatoon, SK S7K 0C3</p>
+            <p>Fax: (306) 652-5859<br />
+            Phone: phone <br />
+            Email: <a href="mailto:lbelloc-pinder@hglaw.ca">lbelloc-pinder@hglaw.ca</a></p>
             </div>
             <div>
             <h2>Call me: <a href="tel:306-653-5154">(306) 653-5154</a></h2>
@@ -44,6 +45,7 @@ const Layout = ({ children }) => {
             </div>
           </div>
         </footer>
+        <div className="post-foot"></div>
       </div>
     </>
   )

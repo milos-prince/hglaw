@@ -1,7 +1,7 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
-import logo from "../images/LBP.svg"
+import logo from "../images/logo.png"
 import Collapsible from "./collapsible"
 
 const Header = ({ siteTitle }) => (
@@ -9,9 +9,9 @@ const Header = ({ siteTitle }) => (
     <div className="headerDesktop">
     <Link to="/"><img src={logo} className="logo"/></Link>
     <div className="linkUnderlineWrapper"><Link to="/about/" className="linkUnderline" activeClassName="activeLink">about</Link></div>
-    <div className="linkUnderlineWrapper"><Link to="/family-arbitration/" className="linkUnderline" activeClassName="activeLink">family arbitration</Link></div>
-    <div className="linkUnderlineWrapper"><Link to="/labour-and-commercial/" className="linkUnderline" activeClassName="activeLink">labour and commercial</Link></div>
-    <div className="linkUnderlineWrapper"><Link to="/contact/" className="linkUnderline" activeClassName="activeLink">contact</Link></div>
+    <div className="linkUnderlineWrapper"><Link to="/family-arbitration/" className="linkUnderline" activeClassName="activeLink">Our expertise</Link></div>
+    <div className="linkUnderlineWrapper"><Link to="/labour-and-commercial/" className="linkUnderline" activeClassName="activeLink">Our team</Link></div>
+    <div className="linkUnderlineWrapper"><Link to="/contact/" className="linkUnderline" activeClassName="activeLink">Contact us</Link></div>
     </div>
     <div className="headerMobile">
     <Collapsible>

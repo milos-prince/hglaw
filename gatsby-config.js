@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Leslie Belloc-Pinder Arbitration`,
-    description: `Arbitration, adjudication, and decision-making resolution. Leslie Belloc-Pinder is a Saskatoon based lawyer with years of experience in arbitration and family law. Her Alternate Dispute Resolution (ADR) practice aims for quick and effective dispute resolution.`,
+    title: `Hnatyshyn-Gough Law`,
+    description: `At Hnatyshyn Gough, we have assembled a team of lawyers to ensure our clients have access to a wide range of legal expertise in one location. Our firm is built on a broad foundation of knowledge, solidified by years of experience in every key area of legal practice. We have been practicing law in the Saskatoon area for over 85 years.`,
     author: `www.bigshrek.tech`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sass`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
