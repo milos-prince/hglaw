@@ -1,0 +1,15 @@
+
+$indent: 10vw;
+
+.our-team-1{
+  padding:200px $indent;
+  display: flex;
+  .our-team-1a{
+    max-width:500px;
+    margin-right:100px;
+  }
+  .our-team-1b{
+    max-width:400px;
+    margin-top:40px;
+  }
+}

@@ -8,10 +8,10 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
-
+import { Link } from "gatsby"
 import Header from "./header"
-import "./layout.css"
-import "./custom.scss"
+import "./styles/layout.css"
+import "./styles/global.scss"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -33,15 +33,18 @@ const Layout = ({ children }) => {
           <div className="footerContent">
             <div>
             <p>601-402 21st Street East 
-            <br />Saskatoon, SK S7K 0C3</p>
+            <br />Saskatoon, Saskatchewan, Canada <br />S7K 0C3</p>
             <p>Fax: (306) 652-5859<br />
-            Phone: phone <br />
-            Email: <a href="mailto:lbelloc-pinder@hglaw.ca">lbelloc-pinder@hglaw.ca</a></p>
+            <a href="tel:306-653-5150">Phone: (306) 653-5150</a><br />
+            Email: <a href="mailto:info@hglaw.ca">info@hglaw.ca</a></p>
             </div>
             <div>
-            <h2>Call me: <a href="tel:306-653-5154">(306) 653-5154</a></h2>
-            <p>Fax: (306) 652-5859</p>
-            <p>Email: <a href="mailto:lbelloc-pinder@hglaw.ca">lbelloc-pinder@hglaw.ca</a></p>
+            <ul>
+              <Link to="/our-team/" ><li>Meet the HG Team</li></Link>
+              <Link to="/our-expertise/" ><li>Practice Areas</li></Link>
+              <Link to="/contact/" ><li>Contact</li></Link>
+              <Link to="/about/" ><li>About us</li></Link>
+            </ul>
             </div>
           </div>
         </footer>

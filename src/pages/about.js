@@ -1,51 +1,30 @@
 import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import aboutPicture from "../images/aboutPicture.jpg"
-import resume from "../../static/leslie-resume.pdf"
+import "../components/styles/about.scss"
+import team from "../images/team.jpg"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Labour and commercial arbitration" />
-    <section className="headerSection shortHeader">
-      <h1>About Leslie Belloc-Pinder</h1>
+    <SEO title="About Hnatyshyn Gough" />
+    <section className="about-1">
+    <div className="about-1-content">
+      <h2 className="uppercase">About us</h2>
+      <h3>Hnatyshyn &amp; Gough Law: key phrase about the firm.</h3>
+      <p>The complexities of today’s legal world are creating new challenges for people and businesses. From personal issues to corporate matters, many clients require detailed attention to specific issues that can only be supported by a dedicated focus.</p>
+      <p>At Hnatyshyn Gough, we have assembled a team of lawyers to ensure our clients have access to a wide range of legal expertise in one location. Our firm is built on a broad foundation of knowledge, solidified by years of experience in every key area of legal practice.</p>
+      <p>We are problem solvers and strategists. We believe in dispute resolution and alternatives to litigation, while retaining the resolve to achieve successful outcomes for clients in traditional forums as well.</p>
+    </div>
     </section>
-    <section className="textSection bg-light-green aboutWrapper">
-      <div className="twoPanel aboutContent">
-        <div className="aboutTextbox">
-        <p>I am a Chartered Arbitrator with experience conducting hearings across several areas of substantive law (labour and employment, environmental protection, immigration, Indian Residential Schools Settlement Agreement: IAP, farm security and ownership).</p>
-        <p>My professional focus has been on administrative tribunal decision making, in various capacities, since 2008, except for my continued representation of the Ministry of Social Services in Saskatchewan in child protection matters.</p>
-        <p>I am a litigation lawyer with 35 years experience. I have conducted well over 150 Superior Court trials as counsel, which resulted in dozens of reported decisions.</p>
-        <p>I served as the President of the Law Society of Saskatchewan for 2019 and continue to sit on the Executive Committee as Past-President. My term as a Bencher will expire in December 2021.</p>
-        </div>
-        <div>
-          <img src={aboutPicture} id="aboutPicture"/>
-        </div>
-      </div>
+    <section className="about-2">
+    <img src={team} />
     </section>
-  <section className="textSection aboutBulletSection">
-      <div className="aboutBulletContent">
-      <h2>I understand every case requiring a decision is the same and needs:</h2>
-      <ul className="benefitsOfArbitration">
-        <li>A clear and transparent process</li>
-        <li>Neutrality and fairness</li>
-        <li>A well-reasoned written decision provided on time</li>
-      </ul>
-      </div>
-      <div className="aboutBulletContent">
-      <h2>I understand every case requiring a decision is unique and I am:</h2>
-      <ul className="benefitsOfArbitration">
-        <li>Adaptable and approachable</li>
-        <li>Flexible and creative with a view to meeting parties' needs</li>
-      </ul>
-      </div>
-</section>
-    <section className="d-flex justify-center align-center bg-pink">
-      <div className="infoBox text-center">
-        <h2>More information</h2>
-        <p>To view Leslie's cv, <a href={resume} className="gold">click here</a></p>
-        <p className="mb-0"><a href="https://www.hglaw.ca">www.hglaw.ca</a></p>
-      </div>
+    <section className="about-3">
+    <div className="about-3-content">
+    <h3>Leaders in the legal community</h3>
+    <p>We are leaders in the legal community, and our members have assumed roles of prominence and responsibility within the Law Society of Saskatchewan.</p>
+    <p>Our commitment to clients also goes beyond the practice of law. Members of Hnatyshyn Gough are established leaders in legal education, mediation, and community initiatives. We strongly believe that to represent a community, you must be part of it. That is why the lawyers at Hnatyshyn Gough are actively involved in an array of boards and organizations, as well as enhancing the understanding of legal issues at the University of Saskatchewan, and throughout the community. Our firm has also been recognized as an exceptionally child friendly workplace and our lawyers praised for leadership in balancing work and family life.</p>
+    </div>
     </section>
   </Layout>
 )

@@ -5,6 +5,7 @@ import SEO from "../components/seo"
 import Hero from "../components/hero"
 import HomepageAboutPanel from "../components/homepageAboutPanel"
 import HomepageLawyersPanel from "../components/homepageFeaturedLawyers"
+import "../components/styles/homepage.scss"
 
 const IndexPage = () => (
   <Layout>

@@ -1,0 +1,26 @@
+
+$indent: 10vw;
+
+/*about page*/
+.about-1{
+  background: #F9F9F9;
+  width:100%;
+  padding:200px $indent 100px;
+  .about-1-content{
+    max-width: 700px;
+  }
+}
+.about-2{
+  height:600px;
+  width: 100%;
+  background:linear-gradient(#F9F9F9 49%, white 50%);
+  display: flex;
+  justify-content: flex-end;
+}
+.about-3{
+  width:100%;
+  padding:100px $indent 100px;
+  .about-3-content{
+    max-width: 700px;
+  }
+}

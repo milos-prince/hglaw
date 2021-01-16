@@ -1,8 +1,6 @@
 import React from "react"
-import don1 from "../images/don1.png"
-import don2 from "../images/don2.gif"
-import don3 from "../images/don3.gif"
-import don4 from "../images/don4.gif"
+import don1 from "../images/harvey1.png"
+import { Link } from "gatsby"
 
 
 const homepageLawyers = () => (
@@ -14,11 +12,11 @@ const homepageLawyers = () => (
     </div>
     <div className="featured-lawyers">
       <img src={don1} />
-      <img src={don3} />
-      <img src={don2} />
-      <img src={don4} />
+      <img src={don1} />
+      <img src={don1} />
+      <img src={don1} />
     </div>
-    <a href="" className="uppercase">Meet the entire Hnatyshyn-Gough team</a>
+    <Link to="/our-team/" className="uppercase" class="fatlink">Meet the entire Hnatyshyn-Gough team</Link>
 </div>
 )
 
