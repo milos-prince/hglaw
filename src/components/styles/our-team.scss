@@ -13,6 +13,9 @@ $popsicle: linear-gradient(90deg, rgba(150,6,209,1) 0%, rgba(209,56,223,1) 16%, 
   .our-team-1a{
     max-width:500px;
     margin-right:100px;
+    @media screen and (max-width:525px) {
+      margin-right:0px;
+    }
   }
   .our-team-1b{
     max-width:400px;

@@ -42,7 +42,7 @@ const Contact = () => (
       <p className="disclaimer">If you are not currently a client of Hnatyshyn Gough, any information you communicate in your email is not protected by lawyer/client confidentiality, nor is a lawyer/client relationship established by our receipt of this email. Before we can discuss any legal matter, we must ensure that we do not have a conflict of interest. Please do not send us any confidential information in your e-mail.</p>
       <input type="checkbox" id="disclaimer" name="disclaimer" required />
       <label htmlFor="disclaimer" className="iUnderstand"> I understand</label>
-      <div className="text-center submit"><button type="submit">Submit</button></div>
+      <div className="submit"><button type="submit">Submit</button></div>
       </form>
     </div>
    </section>

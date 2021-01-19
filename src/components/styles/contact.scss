@@ -96,4 +96,10 @@ margin-bottom: 8px;
 }
 .submit{
   margin-top:10px;
+  display:flex;
+  justify-content: flex-end;
+  @media screen and (max-width:500px) {
+    margin-top:30px;
+    justify-content: center;
+  }
 }
