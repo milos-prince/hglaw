@@ -7,11 +7,11 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Our Team" />
     <section className="our-team-1">
-      <div class="our-team-1a">
+      <div className="our-team-1a">
       <h2 className="uppercase">Meet our team</h2>
       <h3>Committed to understanding the diverse needs of our clients.</h3>
       </div>
-      <div class="our-team-1b">
+      <div className="our-team-1b">
       <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in dolor scelerisque, porta elit ac, porta nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in dolor.
       </p>

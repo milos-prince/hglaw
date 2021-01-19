@@ -11,19 +11,46 @@ $popsicle: linear-gradient(90deg, rgba(150,6,209,1) 0%, rgba(209,56,223,1) 16%, 
 }
 
 .contact-content{
-  height:800px;
   width:100%;
+  display: flex;
+  padding:100px $indent;
+  .contact-info{
+    width:30%;
+  }
+  .contact-form{
+    width:70%;
+  }
+  @media screen and (max-width:900px){
+    flex-direction: column;
+    .contact-form{
+      width:100%;
+    }
+    .contact-info{
+      width:100%;
+    }
+  }
 }
 
-.contact-footer-photo{
-  height:500px;
-  width:100%;
-  background: $popsicle;
+.contact-footer-map-wrapper{
+  display:flex;
+  justify-content: center;
+  .contact-footer-map{
+    border:0;
+    height:500px;
+    width:100vw;
+    margin-bottom:0px;
+  }
 }
-
-/*contact form*/
+/**/
 .form-group{
   margin:30px 0px;
+}
+.form-group-2 {
+  display: flex;
+  justify-content: space-between;
+  input{
+    width:48%;
+  }
 }
 .form-control{
   width:100%;
@@ -31,25 +58,23 @@ $popsicle: linear-gradient(90deg, rgba(150,6,209,1) 0%, rgba(209,56,223,1) 16%, 
   font-size: 12px;
 line-height: 15px;
 padding:17px;
-border:1px solid black;
+background: #F9F9F9;
+border:0;
 }
 input{
   color:black;
-  font-weight: 600;
+  font-weight: 400;
 }
 input:focus, button:focus, textarea:focus{
   outline: none;
 }
-.contactFormWrapper{
-  width:525px;
-  max-width:80vw;
-  margin:auto;
-  padding-bottom:40px;
-}
 ::placeholder{
-  color:black;
-  font-weight:600;
+  color:#3E4049;
+  font-weight:400;
   opacity: 1;
+}
+.form-message{
+  height:150px;
 }
 textarea{
   resize:none;

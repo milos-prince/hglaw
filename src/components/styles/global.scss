@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital@1&family=Prata&family=Montserrat:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&;700display=swap');
 
 /*Globals*/
 $red:#A60000;
@@ -89,10 +89,11 @@ font-size: 36px;
 line-height: 44px;
 }
 h4 {
-  font-family:'Alegreya', serif;
-  font-weight: 400;
+  font-family:'Montserrat', serif;
+  font-weight: 600;
   text-rendering: optimizeLegibility;
-  font-size: 36px;
+  font-size: 16px;
+  color:$red;
 }
 h5{
   font-family: 'Montserrat';

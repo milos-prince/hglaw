@@ -6,6 +6,7 @@ $popsicle: linear-gradient(90deg, rgba(150,6,209,1) 0%, rgba(209,56,223,1) 16%, 
 .homepage-hero{
   height:760px;
   background: url(../../images/heroImage.jpg);
+  background-position: right;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -91,6 +92,6 @@ $popsicle: linear-gradient(90deg, rgba(150,6,209,1) 0%, rgba(209,56,223,1) 16%, 
   width:100%;
   margin: auto;
   background: url(../../images/homepageFooterImage.jpg);
-  background-position: center;
+  background-position: left;
   background-size: cover;
 }

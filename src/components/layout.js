@@ -37,7 +37,7 @@ const Layout = ({ children }) => {
             <p>601-402 21st Street East 
             <br />Saskatoon, Saskatchewan, Canada <br />S7K 0C3</p>
             <p>Fax: (306) 652-5859<br />
-            <a href="tel:306-653-5150">Phone: (306) 653-5150</a><br />
+            Phone: <a href="tel:306-653-5150">(306) 653-5150</a><br />
             Email: <a href="mailto:info@hglaw.ca">info@hglaw.ca</a></p>
             </div>
             <div>

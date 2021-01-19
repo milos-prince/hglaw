@@ -15,7 +15,7 @@ const homepageLawyers = () => (
       <div className="lawyer" />
       <div className="lawyer" />
     </div>
-    <Link to="/our-team/" className="uppercase" class="fatlink">Meet the entire Hnatyshyn-Gough team</Link>
+    <Link to="/our-team/" className="uppercase" className="fatlink">Meet the entire Hnatyshyn-Gough team</Link>
 </div>
 )
 
