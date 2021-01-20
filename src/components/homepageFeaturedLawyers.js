@@ -11,9 +11,9 @@ const homepageLawyers = () => (
     </div>
     <div className="featured-lawyers">
       <div className="lawyer" />
+      <div className="lawyer hidden-lawyer1" />
       <div className="lawyer" />
-      <div className="lawyer" />
-      <div className="lawyer" />
+      <div className="lawyer hidden-lawyer2" />
     </div>
     <Link to="/our-team/" className="uppercase" className="fatlink">Meet the entire Hnatyshyn-Gough team</Link>
 </div>

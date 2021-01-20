@@ -1,0 +1,19 @@
+
+$indent: 10vw;
+
+.expertise-header{
+  padding:100px $indent;
+  background: #F9F9F9;
+  display: flex;
+  @media screen and (max-width:1000px) {
+    flex-direction: column;
+  }
+  .our-expertise-headlines{
+    max-width: 600px;
+    margin-right:50px;
+  }
+  .our-expertise-header-paragraph{
+    max-width: 400px;
+    
+  }
+}

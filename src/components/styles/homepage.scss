@@ -66,13 +66,27 @@ $popsicle: linear-gradient(90deg, rgba(150,6,209,1) 0%, rgba(209,56,223,1) 16%, 
 .homepage-lawyers{
   background: #F9F9F9;
   padding:100px $indent;
-
+  @media screen and (max-width:1050px){
+    .hidden-lawyer1{
+      display: none;
+    }
+  }
+  @media screen and (max-width:800px){
+    .hidden-lawyer2{
+      display: none;
+    }
+  }
   @media screen and (max-width:675px){
     .homepage-team-text{
       flex-direction: column;
     }
     .ml-5vw{
       margin-left:0px;
+    }
+  }
+  @media screen and (max-width:575px){
+    .lawyer{
+      display: none;
     }
   }
 
