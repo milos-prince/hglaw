@@ -4,6 +4,8 @@ import React from "react"
 import logo from "../images/logo.png"
 import Collapsible from "./collapsible"
 
+import hamburger from "../images/hamburger.svg"
+
 const Header = ({ siteTitle }) => (
   <header>
     <div className="headerDesktop">
@@ -14,7 +16,7 @@ const Header = ({ siteTitle }) => (
     <div className="linkUnderlineWrapper"><Link to="/contact/" className="linkUnderline" activeClassName="activeLink">Contact us</Link></div>
     </div>
     <div className="headerMobile">
-    <Collapsible>
+    <Collapsible opener={hamburger}>
     <div className="linkUnderlineWrapper"><Link to="/" className="linkUnderline l1" activeClassName="activeLink">home</Link></div>
     <div className="linkUnderlineWrapper"><Link to="/about/" className="linkUnderline l2" activeClassName="activeLink">about</Link></div>
     <div className="linkUnderlineWrapper"><Link to="/our-expertise/" className="linkUnderline l3" activeClassName="activeLink">Our expertise</Link></div>

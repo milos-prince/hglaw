@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import hamburger from "../images/hamburger.svg"
+
  
 class Collapsible extends Component {
   constructor(props){
@@ -13,10 +13,11 @@ class Collapsible extends Component {
     this.setState({open: !this.state.open})
     }
     
+    
   render() {
     return (
   <div>
-        <div onClick={(e)=>this.togglePanel(e)} className='hamburgerButton'>{!this.state.open ?<img src={hamburger} id="hamburger" />:<p id="close-hamburger">&#10005;</p>}</div>
+        <div onClick={(e)=>this.togglePanel(e)} className='hamburgerButton'>{!this.state.open ?<img src={this.props.opener} id="hamburger" />:<p id="close-hamburger">&#10005;</p>}</div>
         
         {this.state.open ? (
         <div className='mobileNav navOpen'>
