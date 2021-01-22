@@ -13,6 +13,7 @@ import adam from "../images/adam.jpg"
 import david from "../images/david.jpg"
 import don from "../images/don.jpg"
 import sarah from "../images/sarah.jpg"
+import jesse from "../images/jesse.jpg"
 
 
 const IndexPage = () => (
@@ -36,9 +37,11 @@ const IndexPage = () => (
         <Lawyer name="Jenny English" email="jenglish@hglaw.ca" photo={jenny} />
         <Lawyer name="Brent Gough Q.C." email="bgough@hglaw.ca" photo={brent} />
         <Lawyer name="Gillian Gough" email="ggough@hglaw.ca" photo={gillian} />
+        <Lawyer name="Jesse Hayward" email="jhayward@hglaw.ca" photo={jesse} />
         <Lawyer name="Adam Hnatyshyn" email="ahnatyshyn@hglaw.ca" photo={adam} />
         <Lawyer name="David Hnatyshyn Q.C." email="dhnatyshyn@hglaw.ca" photo={david} />
         <Lawyer name="Don McIver Q.C." email="dmciver@hglaw.ca" photo={don} />
+        <div className="spacer"></div>
         <Lawyer name="Sarah Norton" email="snorton@hglaw.ca" photo={sarah} />
       </div>
     </section>

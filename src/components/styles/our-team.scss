@@ -36,6 +36,9 @@ $red:#A60000;
   @media screen and (max-width:775px) {
     grid-template-columns: 1fr 1fr;
     row-gap:30px;
+    .spacer{
+      display: none;
+    }
   }
   @media screen and (max-width:525px) {
     grid-template-columns: 1fr;
@@ -65,8 +68,7 @@ $red:#A60000;
       font-weight:400;
       color: $red;
       text-align: center;
-      
+      }
     }
   }
-}
 }
