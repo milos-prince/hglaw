@@ -1,5 +1,9 @@
 import React from "react"
 import { Link } from "gatsby"
+import gillian from "../images/gillian.jpg"
+import don from "../images/don.jpg"
+import sheila from "../images/sheila.jpg"
+import sarah from "../images/sarah.jpg"
 
 
 const homepageLawyers = () => (
@@ -10,10 +14,10 @@ const homepageLawyers = () => (
       <p className="max-500 ml-5vw">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in dolor scelerisque, porta elit ac, porta nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in dolor scelerisque, porta elit ac, porta nibh.</p>
     </div>
     <div className="featured-lawyers">
-      <div className="lawyer" />
-      <div className="lawyer hidden-lawyer1" />
-      <div className="lawyer" />
-      <div className="lawyer hidden-lawyer2" />
+      <img src={gillian} className="lawyer" />
+      <img src={don} className="lawyer hidden-lawyer1" />
+      <img src={sheila} className="lawyer" />
+      <img src={sarah} className="lawyer hidden-lawyer2" />
     </div>
     <Link to="/our-team/" className="uppercase" className="fatlink">Meet the entire Hnatyshyn-Gough team</Link>
 </div>

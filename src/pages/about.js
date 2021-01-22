@@ -3,7 +3,8 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { Link } from "gatsby"
 import "../components/styles/about.scss"
-import team from "../images/team.jpg"
+import team from "../images/group.jpg"
+import teamMobile from "../images/groupCropped.jpg"
 
 const IndexPage = () => (
   <Layout>
@@ -18,7 +19,7 @@ const IndexPage = () => (
     </div>
     </section>
     <section className="about-2">
-    <img src={team} />
+    <img src={team} className="team-photo team-photo-desktop" /><img src={teamMobile} className="team-photo team-photo-mobile" />
     </section>
     <section className="about-3">
     <div className="about-3-content">

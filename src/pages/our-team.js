@@ -1,7 +1,10 @@
 import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Lawyer from "../components/lawyer"
 import "../components/styles/our-team.scss"
+
+import leslie from "../images/leslie.jpg"
 
 const IndexPage = () => (
   <Layout>
@@ -19,15 +22,15 @@ const IndexPage = () => (
     </section>
     <section className="our-team-content">
       <div className="team-grid-wrapper">
-        <div className="test"></div>
-        <div className="test"></div>
-        <div className="test"></div>
-        <div className="test"></div>
-        <div className="test"></div>
-        <div className="test"></div>
-        <div className="test"></div>
-        <div className="test"></div>
-        <div className="test"></div>
+        <Lawyer name="Leslie Belloc-Pinder Q.C." email="email" photo={leslie} />
+        <div className="lawyerCard"></div>
+        <div className="lawyerCard"></div>
+        <div className="lawyerCard"></div>
+        <div className="lawyerCard"></div>
+        <div className="lawyerCard"></div>
+        <div className="lawyerCard"></div>
+        <div className="lawyerCard"></div>
+        <div className="lawyerCard"></div>
       </div>
     </section>
   </Layout>

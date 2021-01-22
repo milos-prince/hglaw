@@ -11,11 +11,25 @@ $indent: 10vw;
   }
 }
 .about-2{
-  height:600px;
   width: 100%;
   background:linear-gradient(#F9F9F9 49%, white 50%);
   display: flex;
   justify-content: flex-end;
+  .team-photo{
+    width:1000px;
+    object-fit: cover;
+  }
+  .team-photo-mobile{
+    display: none;
+  }
+  @media screen and (max-width:550px){
+    .team-photo-mobile{
+      display:block;
+    }
+    .team-photo-desktop{
+      display: none;
+    }
+  }
 }
 .about-3{
   width:100%;
