@@ -1,5 +1,5 @@
-
 $indent: 10vw;
+$red:#A60000;
 
 .expertise-header{
   padding:100px $indent;
@@ -14,6 +14,43 @@ $indent: 10vw;
   }
   .our-expertise-header-paragraph{
     max-width: 400px;
-    
+  }
+}
+.accordianWrapper{
+  margin:20px $indent;
+  background: #F9F9F9;
+  h1, h2{
+    font-size:20px;
+    color: $red;
+    margin-bottom: 0px;
+    font-weight: 600;
+  }
+  .accordianHeader{
+    display: flex;
+    justify-content: space-between;
+    padding:20px 75px;
+    .expand, .contract{
+      cursor: pointer;
+      font-size:20px;
+      font-weight: 600;
+      margin-bottom:0px;
+      color: $red;
+      transition: transform .1s ease-out;
+    }
+    .expand{
+      transform: rotate(45deg);
+    }
+  }
+  .accordianContent{
+    padding:20px 75px;
+    h2{
+      margin-top:40px;
+      margin-bottom: 20px;
+    }
+    li{
+      font-family: 'montserrat';
+      color: $red;
+      font-weight: 400;
+    }
   }
 }

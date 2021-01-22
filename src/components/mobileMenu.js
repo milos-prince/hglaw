@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
  
-class Collapsible extends Component {
+class MobileMenu extends Component {
   constructor(props){
     super(props);
     this.state = {
@@ -30,4 +30,4 @@ class Collapsible extends Component {
         }
         }
  
-export default Collapsible;
+export default MobileMenu;

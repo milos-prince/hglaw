@@ -9,7 +9,7 @@ import "../components/styles/homepage.scss"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <Hero title="Working in the Saskatoon community for over 85 years." subtitle="Hnatyshyn &amp; Gough Law "/>
+    <Hero title="Working in the Saskatoon community for over 85 years." subtitle="Hnatyshyn Gough Law "/>
     <HomepageAboutPanel />
     <HomepageLawyersPanel />
     <div className="homepageFooterImage">
