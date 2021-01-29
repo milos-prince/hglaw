@@ -12,7 +12,7 @@ const IndexPage = () => (
     <section className="about-1">
     <div className="about-1-content">
       <h2 className="uppercase">About us</h2>
-      <h3>Hnatyshyn &amp; Gough Law: key phrase about the firm.</h3>
+      <h3>Hnatyshyn Gough Law: key phrase about the firm.</h3>
       <p>The complexities of today’s legal world are creating new challenges for people and businesses. From personal issues to corporate matters, many clients require detailed attention to specific issues that can only be supported by a dedicated focus.</p>
       <p>At Hnatyshyn Gough, we have assembled a team of lawyers to ensure our clients have access to a wide range of legal expertise in one location. Our firm is built on a broad foundation of knowledge, solidified by years of experience in every key area of legal practice.</p>
       <p>We are problem solvers and strategists. We believe in dispute resolution and alternatives to litigation, while retaining the resolve to achieve successful outcomes for clients in traditional forums as well.</p>
