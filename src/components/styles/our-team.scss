@@ -3,26 +3,6 @@ $indent: 10vw;
 $popsicle: linear-gradient(90deg, rgba(150,6,209,1) 0%, rgba(209,56,223,1) 16%, rgb(92, 55, 194) 47%, rgb(29, 15, 231) 60%, rgba(72,199,241,1) 100%);
 $red:#A60000;
 
-.our-team-1{
-  padding:100px $indent;
-  display: flex;
-  background: #F9F9F9;
-  @media screen and (max-width:525px) {
-    flex-direction: column;
-  }
-  .our-team-1a{
-    max-width:500px;
-    margin-right:100px;
-    @media screen and (max-width:525px) {
-      margin-right:0px;
-    }
-  }
-  .our-team-1b{
-    max-width:400px;
-    margin-top:40px;
-  }
-}
-
 .our-team-content{
   max-width:900px;
   margin:100px auto;
@@ -33,6 +13,9 @@ $red:#A60000;
   grid-template-columns: 1fr 1fr 1fr;
   justify-items:center;
   row-gap:50px;
+  a{
+    text-decoration: none;
+  }
   @media screen and (max-width:775px) {
     grid-template-columns: 1fr 1fr;
     row-gap:30px;

@@ -29,6 +29,7 @@ $red:#A60000;
     display: flex;
     justify-content: space-between;
     padding:20px 75px;
+    cursor: pointer;
     .expand, .contract{
       cursor: pointer;
       font-size:20px;
@@ -51,6 +52,13 @@ $red:#A60000;
       font-family: 'montserrat';
       color: $red;
       font-weight: 400;
+    }
+  }
+  @media screen and (max-width: 600px){
+    margin:20px 0px;
+    
+    .accordianContent, .accordianHeader{
+      padding:20px 40px;
     }
   }
 }

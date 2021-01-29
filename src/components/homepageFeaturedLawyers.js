@@ -1,9 +1,9 @@
 import React from "react"
 import { Link } from "gatsby"
-import gillian from "../images/gillian.jpg"
-import don from "../images/don.jpg"
-import sheila from "../images/sheila.jpg"
-import sarah from "../images/sarah.jpg"
+import gillian from "../../static/img/gillian.jpg"
+import don from "../../static/img/don.jpg"
+import sheila from "../../static/img/sheila.jpg"
+import sarah from "../../static/img/sarah.jpg"
 
 
 const homepageLawyers = () => (
