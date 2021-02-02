@@ -18,17 +18,17 @@ import jesse from "../../static/img/jesse.jpg"
 const LawyerGrid = () => (
 
       <div className="team-grid-wrapper">
-        <Link to="/our-team/leslie-belloc-pinder/"><Lawyer name="Leslie Belloc-Pinder Q.C." email="lbelloc-pinder@hglaw.ca" photo={leslie} /></Link>
-        <Link to="/our-team/sheila-denysiuk/"><Lawyer name="Sheila Denysiuk Q.C." email="sdenysiuk@hglaw.ca" photo={sheila} /></Link>
-        <Link to="/our-team/jenny-english/"><Lawyer name="Jenny English" email="jenglish@hglaw.ca" photo={jenny} /></Link>
-        <Link to="/our-team/brent-gough/"><Lawyer name="Brent Gough Q.C." email="bgough@hglaw.ca" photo={brent} /></Link>
-        <Link to="/our-team/gillian-gough/"><Lawyer name="Gillian Gough" email="ggough@hglaw.ca" photo={gillian} /></Link>
-        <Link to="/our-team/jesse-hayward/"><Lawyer name="Jesse Hayward" email="jhayward@hglaw.ca" photo={jesse} /></Link>
-        <Link to="/our-team/adam-hnatyshyn/"><Lawyer name="Adam Hnatyshyn" email="ahnatyshyn@hglaw.ca" photo={adam} /></Link>
-        <Link to="/our-team/david-hnatyshyn/"><Lawyer name="David Hnatyshyn Q.C." email="dhnatyshyn@hglaw.ca" photo={david} /></Link>
-        <Link to="/our-team/don-mciver/"><Lawyer name="Don McIver Q.C." email="dmciver@hglaw.ca" photo={don} /></Link>
+        <Link to="/lawyers/leslie-belloc-pinder/"><Lawyer name="Leslie Belloc-Pinder Q.C." email="lbelloc-pinder@hglaw.ca" photo={leslie} /></Link>
+        <Link to="/lawyers/sheila-denysiuk/"><Lawyer name="Sheila Denysiuk Q.C." email="sdenysiuk@hglaw.ca" photo={sheila} /></Link>
+        <Link to="/lawyers/jenny-english/"><Lawyer name="Jenny English" email="jenglish@hglaw.ca" photo={jenny} /></Link>
+        <Link to="/lawyers/brent-gough/"><Lawyer name="Brent Gough Q.C." email="bgough@hglaw.ca" photo={brent} /></Link>
+        <Link to="/lawyers/gillian-gough/"><Lawyer name="Gillian Gough" email="ggough@hglaw.ca" photo={gillian} /></Link>
+        <Link to="/lawyers/jesse-hayward/"><Lawyer name="Jesse Hayward" email="jhayward@hglaw.ca" photo={jesse} /></Link>
+        <Link to="/lawyers/adam-hnatyshyn/"><Lawyer name="Adam Hnatyshyn" email="ahnatyshyn@hglaw.ca" photo={adam} /></Link>
+        <Link to="/lawyers/david-hnatyshyn/"><Lawyer name="David Hnatyshyn Q.C." email="dhnatyshyn@hglaw.ca" photo={david} /></Link>
+        <Link to="/lawyers/don-mciver/"><Lawyer name="Don McIver Q.C." email="dmciver@hglaw.ca" photo={don} /></Link>
         <div className="spacer"></div>
-        <Link to="/our-team/sarah-norton/"><Lawyer name="Sarah Norton" email="snorton@hglaw.ca" photo={sarah} /></Link>
+        <Link to="/lawyers/sarah-norton/"><Lawyer name="Sarah Norton" email="snorton@hglaw.ca" photo={sarah} /></Link>
       </div>
 )
 

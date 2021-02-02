@@ -11,16 +11,16 @@ const Header = ({ siteTitle }) => (
     <div className="headerDesktop">
     <Link to="/"><img src={logo} className="logo"/></Link>
     <div className="linkUnderlineWrapper"><Link to="/about/" className="linkUnderline" activeClassName="activeLink">about</Link></div>
-    <div className="linkUnderlineWrapper"><Link to="/our-expertise/" className="linkUnderline" activeClassName="activeLink">Our expertise</Link></div>
-    <div className="linkUnderlineWrapper"><Link to="/our-team/" className="linkUnderline" activeClassName="activeLink">Our team</Link></div>
+    <div className="linkUnderlineWrapper"><Link to="/areas-of-law/" className="linkUnderline" activeClassName="activeLink">Areas of law</Link></div>
+    <div className="linkUnderlineWrapper"><Link to="/lawyers/" className="linkUnderline" activeClassName="activeLink">Lawyers</Link></div>
     <div className="linkUnderlineWrapper"><Link to="/contact/" className="linkUnderline" activeClassName="activeLink">Contact us</Link></div>
     </div>
     <div className="headerMobile">
     <MobileMenu opener={hamburger}>
     <div className="linkUnderlineWrapper"><Link to="/" className="linkUnderline l1" activeClassName="activeLink">home</Link></div>
     <div className="linkUnderlineWrapper"><Link to="/about/" className="linkUnderline l2" activeClassName="activeLink">about</Link></div>
-    <div className="linkUnderlineWrapper"><Link to="/our-expertise/" className="linkUnderline l3" activeClassName="activeLink">Our expertise</Link></div>
-    <div className="linkUnderlineWrapper"><Link to="/our-team/" className="linkUnderline l4" activeClassName="activeLink">Our team</Link></div>
+    <div className="linkUnderlineWrapper"><Link to="/areas-of-law/" className="linkUnderline l3" activeClassName="activeLink">Areas of law</Link></div>
+    <div className="linkUnderlineWrapper"><Link to="/lawyers/" className="linkUnderline l4" activeClassName="activeLink">Lawyers</Link></div>
     <div className="linkUnderlineWrapper"><Link to="/contact/" className="linkUnderline l5" activeClassName="activeLink">Contact us</Link></div>
     </MobileMenu>
     </div>

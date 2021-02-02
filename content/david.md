@@ -1,5 +1,5 @@
 ---
-path: /our-team/david-hnatyshyn/
+path: /lawyers/david-hnatyshyn/
 name: David Hnatyshyn
 intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc efficitur condimentum nisl. Duis sit amet dignissim nisi. Aenean egestas, nunc quis blandit faucibus, velit ipsum accumsan arcu, vitae vehicula nunc urna eget risus. Integer sollicitudin a velit sit amet molestie. Nulla malesuada nisi tortor, ut ultricies nulla fermentum eu. Sed et dolor vitae nulla aliquet viverra eget vel diam.
 assistant: Cathy Tickner
