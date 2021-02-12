@@ -38,11 +38,11 @@ const Layout = ({ children }) => {
             <br />Saskatoon, Saskatchewan, Canada <br />S7K 0C3</p>
             <p>Fax: (306) 652-5859<br />
             Phone: <a href="tel:306-653-5150">(306) 653-5150</a><br />
-            Email: <a href="mailto:info@hglaw.ca">info@hglaw.ca</a></p>
+            Email: <a href="mailto:hglaw@hglaw.ca">hglaw@hglaw.ca</a></p>
             </div>
             <div>
             <ul>
-              <Link to="/our-team/" ><li>Meet the HG Team</li></Link>
+              <Link to="/lawyers/" ><li>Meet the HG Team</li></Link>
               <Link to="/our-expertise/" ><li>Practice Areas</li></Link>
               <Link to="/contact/" ><li>Contact</li></Link>
               <Link to="/about/" ><li>About us</li></Link>
