@@ -1,25 +1,14 @@
 ---
 path: /lawyers/leslie-belloc-pinder/
 name: Leslie Belloc-Pinder
-intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc efficitur condimentum nisl. Duis sit amet dignissim nisi. Aenean egestas, nunc quis blandit faucibus, velit ipsum accumsan arcu, vitae vehicula nunc urna eget risus. Integer sollicitudin a velit sit amet molestie. Nulla malesuada nisi tortor, ut ultricies nulla fermentum eu. Sed et dolor vitae nulla aliquet viverra eget vel diam.
+intro: Leslie joined the firm in 1989 and was a partner until 2019. Her career was focused almost exclusively on litigation for 20 years, however, expanded to include administrative tribunal and adjudicative work 15 years ago. With appointments as diverse as the Indian Residential Schools Adjudication Secretariat, the Immigration and Refugee Board of Canada, and the Environmental Protection Review Tribunal, Leslie has acquired considerable experience as a decision maker which she applies in family, commercial, and labour arbitrations. Leslie was the President of the Law Society of Saskatchewan for 2019 and continues to serve as a Bencher. An avid community volunteer, Leslie has served on numerous municipal, provincial, and national boards.
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
 practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
 image: /img/leslie.jpg
 templateKey: lawyer-template
 metadata:
-  description: SEO stuff is important
+  description: Leslie joined the firm in 1989 and was a partner until 2019. Her career was focused almost exclusively on litigation for 20 years, however, expanded to include administrative tribunal and adjudicative work 15 years ago.
   keywords: x, y, z
 ---
-
-## Buckingham green
-
-A child without an eye, made her mother cry, Why ask why, She kept her child clean, on Buckingham Green
-
-## The children saw the eye
-as a sign from God, descending from the sky, it was alright to dream, of Buckingham Green
-
-Summon the queen, Spoke the child of eye, it's time to fly, turning fire to steam
-
-On Buckingham Green
 

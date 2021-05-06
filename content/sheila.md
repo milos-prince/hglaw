@@ -1,23 +1,14 @@
 ---
 path: /lawyers/sheila-denysiuk/
 name: Sheila Denysiuk
-intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc efficitur condimentum nisl. Duis sit amet dignissim nisi. Aenean egestas, nunc quis blandit faucibus, velit ipsum accumsan arcu, vitae vehicula nunc urna eget risus. Integer sollicitudin a velit sit amet molestie. Nulla malesuada nisi tortor, ut ultricies nulla fermentum eu. Sed et dolor vitae nulla aliquet viverra eget vel diam.
+intro: Sheila, senior legal counsel at Hnatyshyn Gough, has practiced law for nearly 40 years. She graduated from the University of Saskatchewan with a BA (1978) and LLB (1981). Sheila maintains an extensive arbitration practice, regularly chairing arbitrations throughout Saskatchewan. Currently she serves as an adjudicator and referee under the Canada Labour Code and conducts workplace harassment and misconduct investigations for public and private employers. Sheila is a practice advisor with the Law Society of Saskatchewan. She was a member of the Saskatchewan Human Rights Tribunal from 2003 to 2010, an adjudicator with the Independent Assessment Process under the Indian Residential Schools Settlement Agreement from 2007 to 2016, and has sat on numerous boards over the years, including work for the YWCA.
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
 practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
 image: /img/sheila.jpg
 templateKey: lawyer-template
 metadata:
-  description: SEO stuff is important
+  description: Sheila, senior legal counsel at Hnatyshyn Gough, has practiced law for nearly 40 years. She graduated from the University of Saskatchewan with a BA (1978) and LLB (1981).
   keywords: x, y, z
 ---
-
-## Buckingham green
-
-A child without an eye, made her mother cry, Why ask why, She kept her child clean, on Buckingham Green
-
-## The children saw the eye
-as a sign from God, descending from the sky, it was alright to dream, of Buckingham Green
-Summon the queen, Spoke the child of eye, it's time to fly, turning fire to steam
-On Buckingham Green
 

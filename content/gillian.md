@@ -1,23 +1,15 @@
 ---
 path: /lawyers/gillian-gough/
 name: Gillian Gough
-intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc efficitur condimentum nisl. Duis sit amet dignissim nisi. Aenean egestas, nunc quis blandit faucibus, velit ipsum accumsan arcu, vitae vehicula nunc urna eget risus. Integer sollicitudin a velit sit amet molestie. Nulla malesuada nisi tortor, ut ultricies nulla fermentum eu. Sed et dolor vitae nulla aliquet viverra eget vel diam.
+intro: Gillian joined Hnatyshyn Gough in June 2011 as an articling student and was called to the Saskatchewan Bar in June of 2012. Gillian obtained a Bachelor of Arts from the University of Saskatchewan in 2006, with a major in Spanish, winning the Most Distinguished Graduate in Languages. Gillian worked as an English teacher in South America before pursuing her studies in Law at the University of Saskatchewan. 
+At the College of Law, Gillian was the recipient of the Chief Justice Klebuc Access to Justice Essay Prize, 2010, and was a member of the Mediation Advocacy Moot where her team was acknowledged in several categories including Overall Outstanding Advocate/Client Team. Gillian's maintains a general practice with a focus on family law.
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
 practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
 image: /img/gillian.jpg
 templateKey: lawyer-template
 metadata:
-  description: SEO stuff is important
+  description: Gillian joined Hnatyshyn Gough in June 2011 as an articling student and was called to the Saskatchewan Bar in June of 2012. Gillian obtained a Bachelor of Arts from the University of Saskatchewan in 2006, with a major in Spanish, winning the Most Distinguished Graduate in Languages. Gillian worked as an English teacher in South America before pursuing her studies in Law at the University of Saskatchewan. 
   keywords: x, y, z
 ---
-
-## Buckingham green
-
-A child without an eye, made her mother cry, Why ask why, She kept her child clean, on Buckingham Green
-
-## The children saw the eye
-as a sign from God, descending from the sky, it was alright to dream, of Buckingham Green
-Summon the queen, Spoke the child of eye, it's time to fly, turning fire to steam
-On Buckingham Green
 

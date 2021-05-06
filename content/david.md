@@ -1,23 +1,14 @@
 ---
 path: /lawyers/david-hnatyshyn/
 name: David Hnatyshyn
-intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc efficitur condimentum nisl. Duis sit amet dignissim nisi. Aenean egestas, nunc quis blandit faucibus, velit ipsum accumsan arcu, vitae vehicula nunc urna eget risus. Integer sollicitudin a velit sit amet molestie. Nulla malesuada nisi tortor, ut ultricies nulla fermentum eu. Sed et dolor vitae nulla aliquet viverra eget vel diam.
+intro: David is the firm’s senior partner and has practiced law for over 50 years. David’s career is now concentrated in the areas of corporate and commercial law, wills and estate law, and real estate, however, he has a broad range of experience.  While primarily a solicitor, David has appeared before all levels of court in Saskatchewan, as well as the Tax Court of Canada. David is keenly interested in entrepreneurship and intellectual property, and is a registered Federal Trademark Agent.  In 2006, David was honoured with a Queen’s Counsel designation. David is a strong community volunteer and has served on numerous boards including the YMCA, Saskatoon Services for Seniors, and the Saskatchewan Heart Centre.
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
 practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
 image: /img/david.jpg
 templateKey: lawyer-template
 metadata:
-  description: SEO stuff is important
+  description: David is the firm’s senior partner and has practiced law for over 50 years. David’s career is now concentrated in the areas of corporate and commercial law, wills and estate law, and real estate, however, he has a broad range of experience.  While primarily a solicitor, David has appeared before all levels of court in Saskatchewan, as well as the Tax Court of Canada. David is keenly interested in entrepreneurship and intellectual property, and is a registered Federal Trademark Agent.  In 2006, David was honoured with a Queen’s Counsel designation. David is a strong community volunteer and has served on numerous boards including the YMCA, Saskatoon Services for Seniors, and the Saskatchewan Heart Centre.
   keywords: x, y, z
 ---
-
-## Buckingham green
-
-A child without an eye, made her mother cry, Why ask why, She kept her child clean, on Buckingham Green
-
-## The children saw the eye
-as a sign from God, descending from the sky, it was alright to dream, of Buckingham Green
-Summon the queen, Spoke the child of eye, it's time to fly, turning fire to steam
-On Buckingham Green
 

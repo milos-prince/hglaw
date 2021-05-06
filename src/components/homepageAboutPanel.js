@@ -8,12 +8,7 @@ const homepageAboutPanel = () => (
     <h3>
     Serving our local community with efficiency and integrity.
     </h3>
-    <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in dolor scelerisque, porta elit ac, porta nibh. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin sem ante, lobortis in faucibus non, tincidunt porta felis. Aenean sit amet interdum felis, id sodales ipsum. Suspendisse pharetra vel lacus in laoreet.
-    </p>
-    <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in dolor scelerisque, porta elit ac, porta nibh.
-    </p>
+    <p>Our commitment to clients goes beyond the practice of law.  The team at Hnatyshyn Gough includes established leaders in legal education, mediation, arbitration and community initiatives. Our community involvement extends to work with an array of boards and organizations, as well as roles of prominence and responsibility within the Law Society of Saskatchewan.</p>
   </div>
   <div className="homepage-about-b">
     <div className="bg-color-block">

@@ -1,23 +1,15 @@
 ---
 path: /lawyers/jenny-english/
 name: Jenny English
-intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc efficitur condimentum nisl. Duis sit amet dignissim nisi. Aenean egestas, nunc quis blandit faucibus, velit ipsum accumsan arcu, vitae vehicula nunc urna eget risus. Integer sollicitudin a velit sit amet molestie. Nulla malesuada nisi tortor, ut ultricies nulla fermentum eu. Sed et dolor vitae nulla aliquet viverra eget vel diam.
+intro: Jenny English joined Hnatyshyn Gough in early 2008. Prior to that time, she had a fairly broad practice, however, since being with the firm, her work has focused primarily on family law, child protection and civil litigation – she is also qualified as an arbitrator. Jenny has assisted clients in adult guardianship matters and provided representation under The Mental Health Services Act. She continues to practice in the areas of real estate, as well as wills and estates. Jenny has appeared before all levels of Court in Saskatchewan, as well as various administrative boards and tribunals. Jenny attended the University of Saskatchewan, where she obtained a BA in Anthropology (Linguistics), and an LLB.
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
 practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
 image: /img/jenny.jpg
 templateKey: lawyer-template
 metadata:
-  description: SEO stuff is important
+  description: Jenny English joined Hnatyshyn Gough in early 2008. Prior to that time, she had a fairly broad practice, however, since being with the firm, her work has focused primarily on family law, child protection and civil litigation – she is also qualified as an arbitrator.
   keywords: x, y, z
 ---
 
-## Buckingham green
-
-A child without an eye, made her mother cry, Why ask why, She kept her child clean, on Buckingham Green
-
-## The children saw the eye
-as a sign from God, descending from the sky, it was alright to dream, of Buckingham Green
-Summon the queen, Spoke the child of eye, it's time to fly, turning fire to steam
-On Buckingham Green
 

@@ -1,25 +1,15 @@
 ---
 path: /lawyers/brent-gough/
 name: Brent Gough
-intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc efficitur condimentum nisl. Duis sit amet dignissim nisi. Aenean egestas, nunc quis blandit faucibus, velit ipsum accumsan arcu, vitae vehicula nunc urna eget risus. Integer sollicitudin a velit sit amet molestie. Nulla malesuada nisi tortor, ut ultricies nulla fermentum eu. Sed et dolor vitae nulla aliquet viverra eget vel diam.
+intro: Brent carries on a general practice of law with emphasis in the areas of construction law, administrative law, and civil litigation.  He has argued cases before all levels of Court in Saskatchewan, Federal Court of Appeal, Supreme Court of Canada, as well as various administrative tribunals, including Immigration Appeal Board, Immigration and Refugee Board, and private arbitrations. Brent also serves as an Inquest Coroner within the Province, as well as a practice advisor for the Law Society of Saskatchewan.
+Over the years, Brent has had prolific involvement in the community, having served on a number of committees and boards. Brent has worked with provincial legal organizations and has held several positions with the Law Society of Saskatchewan, including President. 
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
 practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
 image: /img/brent.jpg
 templateKey: lawyer-template
 metadata:
-  description: SEO stuff is important
+  description: Brent carries on a general practice of law with emphasis in the areas of construction law, administrative law, and civil litigation.  He has argued cases before all levels of Court in Saskatchewan, Federal Court of Appeal, Supreme Court of Canada, as well as various administrative tribunals, including Immigration Appeal Board, Immigration and Refugee Board, and private arbitrations.
   keywords: x, y, z
 ---
-
-## Buckingham green
-
-A child without an eye, made her mother cry, Why ask why, She kept her child clean, on Buckingham Green
-
-## The children saw the eye
-as a sign from God, descending from the sky, it was alright to dream, of Buckingham Green
-
-Summon the queen, Spoke the child of eye, it's time to fly, turning fire to steam
-
-On Buckingham Green
 
