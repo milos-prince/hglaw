@@ -14,7 +14,7 @@ const LawyerTemplate = ({ data }) => {
         <h1>{frontmatter?.name}</h1></div>
       <div className="lawyer-photo-section">
         <div className="lawyer-photo-shadow">
-        <img src={frontmatter?.image} className="lawyer-photo"/>
+        <img src={frontmatter?.image} className="lawyer-photo" alt="lawyer headshot"/>
         </div>
       </div>
       <div className="lawyer-header-text">

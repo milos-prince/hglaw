@@ -29,11 +29,12 @@ $red:#A60000;
   .lawyerCard{
     width:200px;
     height:300px;
-    
     img{
       margin-bottom: 0px;
       width:200px;
       height:250px;
+      object-fit: cover;
+
     }
     h1{
       font-family: 'montserrat';

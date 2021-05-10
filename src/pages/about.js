@@ -24,7 +24,7 @@ const IndexPage = () => (
     <div className="about-3-content">
     <h3>Leaders in the legal community</h3>
     <p>Our commitment to clients goes beyond the practice of law.  The team at Hnatyshyn Gough includes established leaders in legal education, mediation, arbitration and community initiatives. Our community involvement extends to work with an array of boards and organizations, as well as roles of prominence and responsibility within the Law Society of Saskatchewan.</p>
-    <Link to="/our-team/" className="fatlink">Learn more about the Hnatyshyn Gough team</Link>
+    <Link to="/lawyers/" className="fatlink">Learn more about the Hnatyshyn Gough team</Link>
     </div>
     </section>
   </Layout>
