@@ -28,7 +28,7 @@ const LawyerGrid = () => (
         <Link to="/lawyers/david-hnatyshyn/"><Lawyer name="David Hnatyshyn Q.C." email="dhnatyshyn@hglaw.ca" photo={david} /></Link>
         <Link to="/lawyers/don-mciver/"><Lawyer name="Don McIver Q.C." email="dmciver@hglaw.ca" photo={don} /></Link>
         <div className="spacer"></div>
-        <Link to="/lawyers/sarah-norton/"><Lawyer name="Sarah Norton" email="snorton@hglaw.ca" photo={sarah} /></Link>
+        <Link to="/lawyers/sarah-nordin/"><Lawyer name="Sarah Nordin" email="snordin@hglaw.ca" photo={sarah} /></Link>
       </div>
 )
 

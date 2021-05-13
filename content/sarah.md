@@ -1,6 +1,6 @@
 ---
-path: /lawyers/sarah-norton/
-name: Sarah Norton
+path: /lawyers/sarah-nordin/
+name: Sarah Nordin
 intro: Associate
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
