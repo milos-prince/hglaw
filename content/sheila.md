@@ -4,7 +4,7 @@ name: Sheila Denysiuk
 intro: Counsel
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
-practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
+practiceAreas: Arbitration, Employment law
 image: /img/sheila.jpg
 templateKey: lawyer-template
 metadata:

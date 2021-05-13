@@ -4,7 +4,7 @@ name: Jesse Hayward
 intro: Associate
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
-practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
+practiceAreas: Civil litigation, Construction law, Corporate commercial, Family law
 image: /img/jesse.jpg
 templateKey: lawyer-template
 metadata:

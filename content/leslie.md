@@ -4,7 +4,7 @@ name: Leslie Belloc-Pinder
 intro: Counsel
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
-practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
+practiceAreas: Arbitration, Civil litigation, Employment law
 image: /img/leslie.jpg
 templateKey: lawyer-template
 metadata:

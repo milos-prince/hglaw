@@ -4,7 +4,7 @@ name: Sarah Norton
 intro: Associate
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
-practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
+practiceAreas: Civil litigation, Construction law, Employment law, Family law, Mediation
 image: /img/sarah.jpg
 templateKey: lawyer-template
 metadata:

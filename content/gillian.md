@@ -4,7 +4,7 @@ name: Gillian Gough
 intro: Partner
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
-practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
+practiceAreas: Family law
 image: /img/gillian.jpg
 templateKey: lawyer-template
 metadata:

@@ -6,9 +6,9 @@ const homepageAboutPanel = () => (
   <div className="homepage-about-a">
     <h2 className="uppercase">About us</h2>
     <h3>
-    Serving our local community with efficiency and integrity.
+    A tradition of talent, dedication to understanding and solving legal problems
     </h3>
-    <p>Our commitment to clients goes beyond the practice of law.  The team at Hnatyshyn Gough includes established leaders in legal education, mediation, arbitration and community initiatives. Our community involvement extends to work with an array of boards and organizations, as well as roles of prominence and responsibility within the Law Society of Saskatchewan.</p>
+    <p>We are a full service, dynamic law firm serving clients needs across legal disciplines including family law, civil litigation, corporate and commercial organization, wills and estate planning, and alternative dispute resolution. We are consistent, patient, and professional; committed to working closely with our clients to make the right decisions at the right times.</p>
   </div>
   <div className="homepage-about-b">
     <div className="bg-color-block">

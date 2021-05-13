@@ -4,7 +4,7 @@ name: David Hnatyshyn
 intro: Senior Partner
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
-practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
+practiceAreas: Corporate commercial, Trademark
 image: /img/david.jpg
 templateKey: lawyer-template
 metadata:

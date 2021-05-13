@@ -4,7 +4,7 @@ name: Adam Hnatyshyn
 intro: Partner
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
-practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
+practiceAreas: Civil litigation, Construction law, Corporate commercial, Employment law
 image: /img/adam.jpg
 templateKey: lawyer-template
 metadata:

@@ -4,7 +4,7 @@ name: Don McIver
 intro: Counsel
 assistant: Cathy Tickner
 assistantEmail: cathy@hglaw.ca
-practiceAreas: Arbitration, Adjudication, Alternative Dispute Resolution, Administrative Law, Civil Litigation
+practiceAreas: Family law, Mediation
 image: /img/don.jpg
 templateKey: lawyer-template
 metadata:
