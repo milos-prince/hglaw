@@ -29,7 +29,7 @@ const Layout = ({ children }) => {
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
       <div>
-        <main style={{maxWidth:1800, margin:'auto'}}>{children}</main>
+        <main style={{maxWidth:1400, margin:'auto'}}>{children}</main>
         <footer>
           <div className="footerContent">
             <img src={footerLogo} className="footer-logo" />
