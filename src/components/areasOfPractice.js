@@ -64,10 +64,9 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   <h2>Employment law lawyers at Hnatyshyn Gough:</h2>
   <ul>
     <li>Brent Gough, QC</li>
-    <li>Sheila Denysiuk, QC</li>
-    <li>Leslie Belloc-Pinder, QC</li>
     <li>Adam Hnatyshyn</li>
     <li>Sarah Nordin</li>
+    <li>Labour arbitrators (see arbitration)</li>
   </ul>
   </div>
 </Accordian>

@@ -4,7 +4,7 @@ const lawyer = ({name, email, photo}) => (
 <div className="lawyerCard">
   <img src={photo} />
   <h1>{name}</h1>
-  <a href={"mailto:"+email}><p>{email}</p></a>
+  {/*<a href={"mailto:"+email}><p>{email}</p></a>*/}
 </div>
 )
 

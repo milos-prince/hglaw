@@ -11,10 +11,10 @@ const IndexPage = () => (
     <SEO title="About Hnatyshyn Gough" />
     <section className="about-1">
     <div className="about-1-content">
-      <h2 className="uppercase">About us</h2>
+      {/*<h2 className="uppercase">About us</h2>*/}
       <h3>Hnatyshyn Gough</h3>
       <p>The complexities of today’s world create new legal challenges for people and businesses. From personal issues to corporate matters, many clients require detailed attention to specific issues that can only be supported by a dedicated focus.</p>
-      <p>Our firm has been part of the Saskatchewan legal landscape since 1933.  At Hnatyshyn Gough, we have assembled a team of lawyers to ensure that our clients have access to a wide range of services in one location. Our firm is built on a broad foundation of knowledge, solidified by years of experience in key areas of legal practice. Our newest lawyers bring fresh perspective, while those with decades of experience provide mentorship and guidance. At Hnatyshyn Gough, we value all forms of dispute resolution, while retaining the resolve to achieve successful outcomes for clients in litigation as well.</p>
+      <p>Our firm has been part of the Saskatchewan legal landscape since 1933.  At Hnatyshyn Gough, we have assembled a team of lawyers to ensure that our clients have access to a wide range of services in one location. Our firm is built on a broad foundation of knowledge, solidified by years of experience in key areas of legal practice. Our newest lawyers bring fresh perspective, while those with decades of experience provide mentorship and guidance. At Hnatyshyn Gough, we value all forms of dispute resolution, while retaining the resolve to achieve successful outcomes for clients in litigation when necessary.</p>
     </div>
     </section>
     <section className="about-2">

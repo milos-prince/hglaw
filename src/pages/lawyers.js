@@ -10,7 +10,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Our Team" />
     <PureTextHeader title="Meet our team" subtitle="Committed to understanding the diverse needs of our clients."
-    paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in dolor scelerisque, porta elit ac, porta nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in dolor." />
+    paragraph="" />
     <section className="our-team-content">
       <LawyerGrid />
     </section>

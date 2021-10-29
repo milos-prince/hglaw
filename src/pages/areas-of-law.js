@@ -8,9 +8,9 @@ import AreasOfPractice from "../components/areasOfPractice"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Our expertise" />
-    <PureTextHeader title="Our Expertise" subtitle="Our lawyers are leading experts across a range of legal fields."
-    paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in dolor scelerisque, porta elit ac, porta nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in dolor." />
+    <SEO title="Legal Services" />
+    <PureTextHeader title="Legal Services" subtitle="Our lawyers are experienced professionals across a range of legal fields."
+    paragraph="If you are not sure what type of services you need, please contact us to discuss. To learn more about our services, please click any of our areas of practice." />
     <AreasOfPractice />
   </Layout>
 )

@@ -42,7 +42,7 @@ const Layout = ({ children }) => {
             </div>
             <div>
             <ul>
-              <Link to="/lawyers/" ><li>Meet the HG Team</li></Link>
+              <Link to="/lawyers/" ><li>Meet the HG Law Team</li></Link>
               <Link to="/our-expertise/" ><li>Practice Areas</li></Link>
               <Link to="/contact/" ><li>Contact</li></Link>
               <Link to="/about/" ><li>About us</li></Link>

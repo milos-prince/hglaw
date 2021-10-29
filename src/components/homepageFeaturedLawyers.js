@@ -14,12 +14,12 @@ const homepageLawyers = () => (
       <p className="max-500 ml-5vw">Our skilled and exceptional lawyers have significant practical experience in a wide variety of legal disciplines. We are well prepared to deliver the best results for our clients.</p>
     </div>
     <div className="featured-lawyers">
-      <img src={gillian} className="lawyer" />
-      <img src={don} className="lawyer hidden-lawyer1" />
       <img src={sheila} className="lawyer" />
+      <img src={gillian} className="lawyer hidden-lawyer1" />
+      <img src={don} className="lawyer" />
       <img src={sarah} className="lawyer hidden-lawyer2" />
     </div>
-    <Link to="/lawyers/" className="uppercase" className="fatlink">Meet the entire Hnatyshyn Gough team</Link>
+    <Link to="/lawyers/" className="uppercase" className="fatlink">Meet the Hnatyshyn Gough team</Link>
 </div>
 )
 
