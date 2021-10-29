@@ -21,8 +21,7 @@ const LawyerTemplate = ({ data }) => {
         <div className="hide-s"><h2 className="uppercase">Our Team</h2>
         <h1>{frontmatter?.name}</h1></div>
         <p>{frontmatter?.intro}</p>
-        <h4 className="uppercase mb-11">Legal assistant</h4>
-        <p className="mb-0">{frontmatter?.assistant}</p>
+        <h4 className="uppercase mb-11">Email</h4>
   <a className="assistant-email" href={"mailto:"+frontmatter?.assistantEmail}>{frontmatter?.assistantEmail}</a>
         <h4 className="uppercase mb-11 areas">Practice areas</h4>
         <p className="mb-0">{frontmatter?.practiceAreas}</p>

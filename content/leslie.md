@@ -1,9 +1,9 @@
 ---
 path: /lawyers/leslie-belloc-pinder/
-name: Leslie Belloc-Pinder
+name: Leslie Belloc-Pinder, Q.C.
 intro: Counsel
 assistant: Cathy Tickner
-assistantEmail: cathy@hglaw.ca
+assistantEmail: lbelloc-pinder@hglaw.ca
 practiceAreas: Arbitration, Civil litigation, Employment law
 image: /img/leslie.jpg
 templateKey: lawyer-template

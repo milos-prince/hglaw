@@ -3,7 +3,7 @@ path: /lawyers/jesse-hayward/
 name: Jesse Hayward
 intro: Associate
 assistant: Cathy Tickner
-assistantEmail: cathy@hglaw.ca
+assistantEmail: jhayward@hglaw.ca
 practiceAreas: Civil litigation, Construction law, Corporate commercial, Family law
 image: /img/jesse.jpg
 templateKey: lawyer-template

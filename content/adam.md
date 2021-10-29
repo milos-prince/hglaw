@@ -3,7 +3,7 @@ path: /lawyers/adam-hnatyshyn/
 name: Adam Hnatyshyn
 intro: Partner
 assistant: Cathy Tickner
-assistantEmail: cathy@hglaw.ca
+assistantEmail: ahnatyshyn@hglaw.ca
 practiceAreas: Civil litigation, Construction law, Corporate commercial, Employment law
 image: /img/adam.jpg
 templateKey: lawyer-template

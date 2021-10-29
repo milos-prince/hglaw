@@ -3,8 +3,8 @@ path: /lawyers/sarah-nordin/
 name: Sarah Nordin
 intro: Associate
 assistant: Cathy Tickner
-assistantEmail: cathy@hglaw.ca
-practiceAreas: Civil litigation, Construction law, Employment law, Family law, Mediation
+assistantEmail: snordin@hglaw.ca
+practiceAreas: Civil litigation, Construction law, Employment law, Family law, Mediation, Wills & estates
 image: /img/sarah.jpg
 templateKey: lawyer-template
 metadata:

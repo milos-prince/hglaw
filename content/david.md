@@ -1,9 +1,9 @@
 ---
 path: /lawyers/david-hnatyshyn/
-name: David Hnatyshyn
+name: David Hnatyshyn, Q.C.
 intro: Senior Partner
 assistant: Cathy Tickner
-assistantEmail: cathy@hglaw.ca
+assistantEmail: dhnatyshyn@hglaw.ca
 practiceAreas: Corporate commercial, Trademark
 image: /img/david.jpg
 templateKey: lawyer-template

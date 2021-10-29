@@ -3,7 +3,7 @@ path: /lawyers/jenny-english/
 name: Jenny English
 intro: Partner
 assistant: Cathy Tickner
-assistantEmail: cathy@hglaw.ca
+assistantEmail: jenglish@hglaw.ca
 practiceAreas: Arbitration, Civil litigation, Family law
 image: /img/jenny.jpg
 templateKey: lawyer-template

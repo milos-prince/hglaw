@@ -3,7 +3,7 @@ path: /lawyers/gillian-gough/
 name: Gillian Gough
 intro: Partner
 assistant: Cathy Tickner
-assistantEmail: cathy@hglaw.ca
+assistantEmail: ggough@hglaw.ca
 practiceAreas: Family law
 image: /img/gillian.jpg
 templateKey: lawyer-template

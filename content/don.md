@@ -1,9 +1,9 @@
 ---
 path: /lawyers/don-mciver/
-name: Don McIver
+name: Donald McIver, Q.C.
 intro: Counsel
 assistant: Cathy Tickner
-assistantEmail: cathy@hglaw.ca
+assistantEmail: dmciver@hglaw.ca
 practiceAreas: Family law, Mediation
 image: /img/don.jpg
 templateKey: lawyer-template

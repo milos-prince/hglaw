@@ -1,9 +1,9 @@
 ---
 path: /lawyers/sheila-denysiuk/
-name: Sheila Denysiuk
+name: Sheila Denysiuk Q.C.
 intro: Counsel
 assistant: Cathy Tickner
-assistantEmail: cathy@hglaw.ca
+assistantEmail: sdenysiuk@hglaw.ca
 practiceAreas: Arbitration, Employment law
 image: /img/sheila.jpg
 templateKey: lawyer-template

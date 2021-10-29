@@ -1,9 +1,9 @@
 ---
 path: /lawyers/brent-gough/
-name: Brent Gough
+name: W. Brent Gough, Q.C.
 intro: Counsel
 assistant: Cathy Tickner
-assistantEmail: cathy@hglaw.ca
+assistantEmail: bgough@hglaw.ca
 practiceAreas: Civil litigation, Construction law, Employment law, Mediation
 image: /img/brent.jpg
 templateKey: lawyer-template
