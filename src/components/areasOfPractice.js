@@ -112,6 +112,20 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   </ul>
   </div>
 </Accordian>
+<Accordian title="Wills and Estates">
+  <div className="accordianContent">
+  <p>Hnatyshyn Gough will provide guidance, as well as administrative and legal support, for matters ranging from estate planning to estate administration.  If you require a will, power of attorney, or family trust, we can assist with structuring your estate to ensure that your goals are met and your mind is at ease. We maintain a compassionate and client-centred approach, and understand your need for efficiency and support following the death of a loved one.</p>
+  <h2>Wills and estates lawyers at Hnatyshyn Gough:</h2>
+  <ul>
+    <li>David Hnatyshyn, QC</li>
+    <li>Brent Gough, QC</li>
+    <li>Adam Hnatyshyn</li>
+    <li>Gillian Gough</li>
+    <li>Sarah Nordin</li>
+    <li>Jesse Hayward</li>
+  </ul>
+  </div>
+</Accordian>
 </section>
 )
 
