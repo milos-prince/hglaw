@@ -1,8 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
+import adam from "../../static/img/adam.jpg"
 import gillian from "../../static/img/gillian.jpg"
 import don from "../../static/img/don.jpg"
-import sheila from "../../static/img/sheila.jpg"
 import sarah from "../../static/img/sarah.jpg"
 
 
@@ -14,8 +14,8 @@ const homepageLawyers = () => (
       <p className="max-500 ml-5vw">Our skilled and exceptional lawyers have significant practical experience in a wide variety of legal disciplines. We are well prepared to deliver the best results for our clients.</p>
     </div>
     <div className="featured-lawyers">
-      <img src={sheila} className="lawyer" />
-      <img src={gillian} className="lawyer hidden-lawyer1" />
+      <img src={gillian} className="lawyer" />
+      <img src={adam} className="lawyer hidden-lawyer1" />
       <img src={don} className="lawyer" />
       <img src={sarah} className="lawyer hidden-lawyer2" />
     </div>
