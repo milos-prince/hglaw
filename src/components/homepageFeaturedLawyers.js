@@ -19,7 +19,7 @@ const homepageLawyers = () => (
       <img src={don} className="lawyer" />
       <img src={sarah} className="lawyer hidden-lawyer2" />
     </div>
-    <Link to="/lawyers/" className="uppercase" className="fatlink">Meet the Hnatyshyn Gough team</Link>
+    <Link to="/lawyers/" className="uppercase fatlink">Meet the Hnatyshyn Gough team</Link>
 </div>
 )
 
