@@ -28,7 +28,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
     <li>Jenny English</li>
     <li>Adam Hnatyshyn</li>
     <li>Sarah Nordin</li>
-    <li>Jesse Hayward</li>
+    
   </ul>
   </div>
 </Accordian>
@@ -41,7 +41,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
     <li>Brent Gough, QC</li>
     <li>Adam Hnatyshyn</li>
     <li>Sarah Nordin</li>
-    <li>Jesse Hayward</li>
+    
   </ul>
   </div>
 </Accordian>
@@ -53,7 +53,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   <ul>
     <li>David Hnatyshyn, QC</li>
     <li>Adam Hnatyshyn</li>
-    <li>Jesse Hayward</li>
+    
   </ul>
   </div>
 </Accordian>
@@ -80,7 +80,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   <li>Jenny English</li>
   <li>Gillian Gough</li>
   <li>Sarah Nordin</li>
-  <li>Jesse Hayward</li>
+  
   </ul>
   </div>
 </Accordian>
@@ -122,7 +122,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
     <li>Adam Hnatyshyn</li>
     <li>Gillian Gough</li>
     <li>Sarah Nordin</li>
-    <li>Jesse Hayward</li>
+    
   </ul>
   </div>
 </Accordian>
