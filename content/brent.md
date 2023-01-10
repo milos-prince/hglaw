@@ -1,6 +1,6 @@
 ---
 path: /lawyers/brent-gough/
-name: W. Brent Gough, KC
+name: W. Brent Gough, , KC
 intro: Counsel
 assistant: Cathy Tickner
 assistantEmail: bgough@hglaw.ca

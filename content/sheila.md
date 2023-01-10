@@ -1,6 +1,6 @@
 ---
 path: /lawyers/sheila-denysiuk/
-name: Sheila Denysiuk KC
+name: Sheila Denysiuk , KC
 intro: Counsel
 assistant: Cathy Tickner
 assistantEmail: sdenysiuk@hglaw.ca

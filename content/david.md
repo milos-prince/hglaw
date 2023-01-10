@@ -1,6 +1,6 @@
 ---
 path: /lawyers/david-hnatyshyn/
-name: David Hnatyshyn, KC
+name: David Hnatyshyn, , KC
 intro: Senior Partner
 assistant: Cathy Tickner
 assistantEmail: dhnatyshyn@hglaw.ca
