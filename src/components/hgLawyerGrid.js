@@ -18,13 +18,13 @@ import jesse from "../../static/img/jesse.jpg"
 const LawyerGrid = () => (
 
       <div className="team-grid-wrapper">
-        <Link to="/lawyers/leslie-belloc-pinder/"><Lawyer name="Leslie Belloc-Pinder , KC" email="lbelloc-pinder@hglaw.ca" photo={leslie} /></Link>
+        <Link to="/lawyers/leslie-belloc-pinder/"><Lawyer name="Leslie Belloc-Pinder, KC" email="lbelloc-pinder@hglaw.ca" photo={leslie} /></Link>
         <Link to="/lawyers/jenny-english/"><Lawyer name="Jenny English" email="jenglish@hglaw.ca" photo={jenny} /></Link>
-        <Link to="/lawyers/brent-gough/"><Lawyer name="Brent Gough , KC" email="bgough@hglaw.ca" photo={brent} /></Link>
+        <Link to="/lawyers/brent-gough/"><Lawyer name="Brent Gough, KC" email="bgough@hglaw.ca" photo={brent} /></Link>
         <Link to="/lawyers/gillian-gough/"><Lawyer name="Gillian Gough" email="ggough@hglaw.ca" photo={gillian} /></Link>
         <Link to="/lawyers/adam-hnatyshyn/"><Lawyer name="Adam Hnatyshyn" email="ahnatyshyn@hglaw.ca" photo={adam} /></Link>
         <Link to="/lawyers/david-hnatyshyn/"><Lawyer name="David Hnatyshyn , KC" email="dhnatyshyn@hglaw.ca" photo={david} /></Link>
-        <Link to="/lawyers/don-mciver/"><Lawyer name="Don McIver , KC" email="dmciver@hglaw.ca" photo={don} /></Link>
+        <Link to="/lawyers/don-mciver/"><Lawyer name="Don McIver, KC" email="dmciver@hglaw.ca" photo={don} /></Link>
         <Link to="/lawyers/sarah-nordin/"><Lawyer name="Sarah Nordin" email="snordin@hglaw.ca" photo={sarah} /></Link>
       </div>
 )
