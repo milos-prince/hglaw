@@ -1,6 +1,6 @@
 ---
 path: /lawyers/don-mciver/
-name: Donald McIver, , KC
+name: Donald McIver, KC
 intro: Counsel
 assistant: Cathy Tickner
 assistantEmail: dmciver@hglaw.ca
