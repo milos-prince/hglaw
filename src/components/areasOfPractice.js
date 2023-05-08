@@ -26,6 +26,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
     <li>Leslie Belloc-Pinder, KC</li>
     <li>Jenny English</li>
     <li>Adam Hnatyshyn</li>
+    <li>Tonya Lambert</li>
     <li>Sarah Nordin</li>
     
   </ul>
@@ -39,6 +40,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   <ul>
     <li>Brent Gough, KC</li>
     <li>Adam Hnatyshyn</li>
+    <li>Tonya Lambert</li>
     <li>Sarah Nordin</li>
     
   </ul>
@@ -78,6 +80,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   <li>Donald McIver, KC</li>
   <li>Jenny English</li>
   <li>Gillian Gough</li>
+  <li>Tonya Lambert</li>
   <li>Sarah Nordin</li>
   
   </ul>
@@ -91,6 +94,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   <ul>
     <li>Donald McIver, KC</li>
     <li>Brent Gough, KC</li>
+    <li>Tonya Lambert</li>
     <li>Sarah Nordin</li>
   </ul>
   </div>
