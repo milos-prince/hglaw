@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import adam from "../../static/img/adam.jpg"
+import david from "../../static/img/david.jpg"
 import gillian from "../../static/img/gillian.jpg"
 import don from "../../static/img/don.jpg"
 import sarah from "../../static/img/sarah.jpg"
@@ -15,7 +15,7 @@ const homepageLawyers = () => (
     </div>
     <div className="featured-lawyers">
       <img src={gillian} className="lawyer" />
-      <img src={adam} className="lawyer hidden-lawyer1" />
+      <img src={david} className="lawyer hidden-lawyer1" />
       <img src={don} className="lawyer" />
       <img src={sarah} className="lawyer hidden-lawyer2" />
     </div>
