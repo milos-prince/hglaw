@@ -1,6 +1,6 @@
 ---
 path: /lawyers/leslie-belloc-pinder/
-name: Leslie Belloc-Pinder, , KC
+name: Leslie Belloc-Pinder, KC
 intro: Counsel
 assistant: Cathy Tickner
 assistantEmail: lbelloc-pinder@hglaw.ca
