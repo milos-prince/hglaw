@@ -1,7 +1,7 @@
 ---
 path: /lawyers/tonya-lambert/
 name: Tonya Lambert
-intro: Partner
+intro: Associate
 assistant: Cathy Tickner
 assistantEmail: tlambert@hglaw.ca
 practiceAreas: Civil Litigation, Family Law, Construction Law, Mediation, Real Estate. 
