@@ -11,7 +11,6 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   <p>An arbitrator is a neutral third party who has the authority to make a decision about a dispute.  Arbitration is a cost-effective alternative to court; in fact, people who are self-represented often find that arbitration is a more accessible forum than court.  Hnatyshyn Gough has highly skilled arbitrators with considerable experience in the areas of family law, as well as labour and employment.</p>    
   <h2>Arbitrators at Hnatyshyn Gough:</h2>
   <ul>
-    <li>Leslie Belloc-Pinder, KC</li>
     <li>Jenny English</li>
   </ul>
   </div>
@@ -23,7 +22,6 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   <h2>Civil litigation lawyers at Hnatyshyn Gough:</h2>
   <ul>
     <li>Brent Gough, KC</li>
-    <li>Leslie Belloc-Pinder, KC</li>
     <li>Jenny English</li>
     <li>Adam Hnatyshyn</li>
     <li>Tonya Lambert</li>

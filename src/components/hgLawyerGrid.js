@@ -3,7 +3,6 @@ import Lawyer from "./lawyer"
 import "../components/styles/our-team.scss"
 import { Link } from "gatsby"
 
-import leslie from "../../static/img/leslie.jpg"
 import jenny from "../../static/img/jenny.jpg"
 import brent from "../../static/img/brent.jpg"
 import gillian from "../../static/img/gillian.jpg"
@@ -17,7 +16,6 @@ import tonya from "../../static/img/tonya.jpg"
 const LawyerGrid = () => (
 
       <div className="team-grid-wrapper">
-        <Link to="/lawyers/leslie-belloc-pinder/"><Lawyer name="Leslie Belloc-Pinder, KC" email="lbelloc-pinder@hglaw.ca" photo={leslie} /></Link>
         <Link to="/lawyers/jenny-english/"><Lawyer name="Jenny English" email="jenglish@hglaw.ca" photo={jenny} /></Link>
         <Link to="/lawyers/brent-gough/"><Lawyer name="Brent Gough, KC" email="bgough@hglaw.ca" photo={brent} /></Link>
         <Link to="/lawyers/gillian-gough/"><Lawyer name="Gillian Gough" email="ggough@hglaw.ca" photo={gillian} /></Link>
