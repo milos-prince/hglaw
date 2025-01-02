@@ -1,6 +1,7 @@
 import React from "react"
 import Accordian from "./accordian"
 import "../components/styles/our-team.scss"
+import { Link } from "gatsby"
 
 
 const AreasOfPractice = ({title, subtitle, paragraph}) => (
@@ -12,6 +13,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   <h2>Arbitrators at Hnatyshyn Gough:</h2>
   <ul>
     <li>Jenny English</li>
+    <li>Sheila Denysiuk</li>
   </ul>
   </div>
 </Accordian>
@@ -33,14 +35,12 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
 
 <Accordian title="Construction Law">
   <div className="accordianContent">
-  <p>Hnatyshyn Gough has built a strong team ready to support those in the construction industry with their legal needs.  Whether you are an owner, contractor, subcontractor or supplier, we can help protect your interests on projects and address your legal issues involving financing, contracts, builders’ liens, and litigation.</p>
+  <p>Hnatyshyn Gough has built a strong team ready to support those in the construction industry with their legal needs. Whether you are an owner, contractor, subcontractor, or supplier, we can help protect your interests on projects and address your legal issues involving financing, contracts, builders’ liens, and litigation.</p>
   <h2>Construction law lawyers at Hnatyshyn Gough:</h2>
   <ul>
     <li>Brent Gough, KC</li>
     <li>Adam Hnatyshyn</li>
-    <li>Tonya Lambert</li>
-    <li>Sarah Nordin</li>
-    
+    <li>Sarah Nordin</li> 
   </ul>
   </div>
 </Accordian>
@@ -52,14 +52,14 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   <ul>
     <li>David Hnatyshyn, KC</li>
     <li>Adam Hnatyshyn</li>
-    
+    <li>Anitha Joseph</li>
   </ul>
   </div>
 </Accordian>
 
 <Accordian title="Employment Law">
   <div className="accordianContent">
-  <p>Hnatyshyn Gough offers an extensive range of services with respect to employment law; we act for diverse clients, including employees, employers and unions, in all types of forums. We are ready to work with you on matters ranging from complaints, terminations, investigations, occupational health and safety, human rights and more.</p>
+  <p>Hnatyshyn Gough offers an extensive range of services with respect to employment law; we act for diverse clients, including employees, employers, and unions, in all types of forums. We are ready to work with you on matters ranging from complaints, terminations, investigations, occupational health and safety, human rights, and more.</p>
   <h2>Employment law lawyers at Hnatyshyn Gough:</h2>
   <ul>
     <li>Brent Gough, KC</li>
@@ -72,7 +72,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
 
 <Accordian title="Family Law">
   <div className="accordianContent">
-  <p>Hnatyshyn Gough has a long history of helping clients navigate complex family law matters with compassion.  Our lawyers use a client-centered approach, and work with you to determine the best path forward to achieving resolution and closure. We can assist with all areas of family law, including separation, divorce, adoption, property division, parenting, spousal maintenance and child support. We have the training, skills, and experience to guide you through all forms of dispute resolution, including negotiation, mediation, collaborative law, arbitration, or litigation.</p>
+  <p>Hnatyshyn Gough has a long history of helping clients navigate complex family law matters with compassion.  Our lawyers use a client-centered approach and work with you to determine the best path forward to achieving resolution and closure. We can assist with all areas of family law, including separation, divorce, adoption, property division, parenting, spousal maintenance, and child support. We also have the training, skills, and experience to guide you through all forms of dispute resolution, including negotiation, mediation, collaborative law, arbitration, or litigation.</p>
   <h2>Family law lawyers at Hnatyshyn Gough:</h2>
   <ul>
   <li>Donald McIver, KC</li>
@@ -80,14 +80,14 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   <li>Gillian Gough</li>
   <li>Tonya Lambert</li>
   <li>Sarah Nordin</li>
-  
+  <li>Laura Churchman</li>
   </ul>
   </div>
 </Accordian>
 
 <Accordian title="Mediation">
   <div className="accordianContent">
-  <p>Mediation is a form of dispute resolution that involves a negotiation between two parties with the assistance of a neutral third party.  Hnatyshyn Gough has a team of highly skilled mediators with experience in a variety of areas of law. Let us help you resolve complex legal problems in areas such as family law, construction, insurance, and other civil disputes.</p>
+  <p>Mediation is a form of dispute resolution that involves a negotiation between two parties with the assistance of a neutral third party.  Hnatyshyn Gough has a team of highly skilled mediators with experience in a variety of areas of law. Let us help you resolve complex legal problems involving family law, construction, insurance, and other civil disputes.</p>
   <h2> Mediators at Hnatyshyn Gough:</h2>
   <ul>
     <li>Donald McIver, KC</li>
@@ -100,7 +100,8 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
 
 <Accordian title="Real Estate">
   <div className="accordianContent">
-  <p>All our lawyers are available to assist you with your real estate transactions, including those involving residential, recreational or commercial property. Whether you are buying, selling, transferring, or mortgaging property, Hnatyshyn Gough has an array of practitioners to handle any real estate transaction on your behalf.</p>
+  <p>Our lawyers are all available to assist you with your real estate transactions, including those involving residential, recreational, or commercial property. Whether you are buying, selling, transferring, or mortgaging property, Hnatyshyn Gough has an array of practitioners to handle any real estate transaction on your behalf.</p>
+  <Link to="/lawyers/">Our Lawyers</Link>
   </div>
 </Accordian>
 
@@ -123,7 +124,9 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
     <li>Adam Hnatyshyn</li>
     <li>Gillian Gough</li>
     <li>Sarah Nordin</li>
-    
+    <li>Laura Churchman</li>
+    <li>Anitha Joseph</li>
+    <li>Tonya Lambert</li>
   </ul>
   </div>
 </Accordian>
