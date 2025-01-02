@@ -32,7 +32,7 @@ const Layout = ({ children }) => {
         <main style={{maxWidth:1440, margin:'auto'}}>{children}</main>
         <footer>
           <div className="footerContent">
-            <img src={footerLogo} className="footer-logo" />
+            <img src={footerLogo} className="footer-logo" alt="footer logo" />
             <div>
             <p>601-402 21st Street East 
             <br />Saskatoon, Saskatchewan, Canada <br />S7K 0C3</p>

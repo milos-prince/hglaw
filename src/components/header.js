@@ -9,7 +9,7 @@ import hamburger from "../images/hamburger.svg"
 const Header = ({ siteTitle }) => (
   <header>
     <div className="headerDesktop">
-    <Link to="/"><img src={logo} className="logo"/></Link>
+    <Link to="/"><img src={logo} className="logo" alt="HG Law logo"/></Link>
     <div className="linkUnderlineWrapper"><Link to="/about/" className="linkUnderline" activeClassName="activeLink">about</Link></div>
     <div className="linkUnderlineWrapper"><Link to="/areas-of-law/" className="linkUnderline" activeClassName="activeLink">Areas of law</Link></div>
     <div className="linkUnderlineWrapper"><Link to="/lawyers/" className="linkUnderline" activeClassName="activeLink">Lawyers</Link></div>
