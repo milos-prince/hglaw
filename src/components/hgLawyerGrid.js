@@ -20,7 +20,7 @@ const LawyerGrid = () => (
 
       <div className="team-grid-wrapper">
         <Link to="/lawyers/laura-churchman/"><Lawyer name="Laura Churchman" email="lchurchman@hglaw.ca" photo={laura} /></Link>
-        <Link to="/lawyers/sheila-denysiuk/"><Lawyer name="Sheila Denysiuk" email="sdenysiuk@hglaw.ca" photo={sheila} /></Link>
+        <Link to="/lawyers/sheila-denysiuk/"><Lawyer name="Sheila Denysiuk, KC" email="sdenysiuk@hglaw.ca" photo={sheila} /></Link>
         <Link to="/lawyers/jenny-english/"><Lawyer name="Jenny English" email="jenglish@hglaw.ca" photo={jenny} /></Link>
         <Link to="/lawyers/brent-gough/"><Lawyer name="Brent Gough, KC" email="bgough@hglaw.ca" photo={brent} /></Link>
         <Link to="/lawyers/gillian-gough/"><Lawyer name="Gillian Gough" email="ggough@hglaw.ca" photo={gillian} /></Link>

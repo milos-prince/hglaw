@@ -13,7 +13,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   <h2>Arbitrators at Hnatyshyn Gough:</h2>
   <ul>
     <li>Jenny English</li>
-    <li>Sheila Denysiuk</li>
+    <li>Sheila Denysiuk, KC</li>
   </ul>
   </div>
 </Accordian>
