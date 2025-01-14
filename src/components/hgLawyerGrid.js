@@ -6,14 +6,14 @@ import { Link } from "gatsby"
 import jenny from "../../static/img/jenny.jpg"
 import brent from "../../static/img/brent.jpg"
 import gillian from "../../static/img/gillian.jpg"
-import adam from "../../static/img/adam.jpg"
+import adam from "../../static/img/adamWebsize.jpg"
 import david from "../../static/img/david.jpg"
 import don from "../../static/img/don.jpg"
 import sarah from "../../static/img/sarah.jpg"
-import tonya from "../../static/img/tonya.jpg"
-import laura from "../../static/img/laura.jpg"
+import tonya from "../../static/img/tonyaWebsize.jpg"
+import laura from "../../static/img/lauraWebsize.jpg"
 import sheila from "../../static/img/sheila.jpg"
-import anitha from "../../static/img/anitha.jpg"
+import anitha from "../../static/img/anithaWebsize.jpg"
 
 
 const LawyerGrid = () => (
