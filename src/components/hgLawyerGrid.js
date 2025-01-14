@@ -25,7 +25,7 @@ const LawyerGrid = () => (
         <Link to="/lawyers/brent-gough/"><Lawyer name="Brent Gough, KC" email="bgough@hglaw.ca" photo={brent} /></Link>
         <Link to="/lawyers/gillian-gough/"><Lawyer name="Gillian Gough" email="ggough@hglaw.ca" photo={gillian} /></Link>
         <Link to="/lawyers/adam-hnatyshyn/"><Lawyer name="Adam Hnatyshyn" email="ahnatyshyn@hglaw.ca" photo={adam} /></Link>
-        <Link to="/lawyers/david-hnatyshyn/"><Lawyer name="David Hnatyshyn , KC" email="dhnatyshyn@hglaw.ca" photo={david} /></Link>
+        <Link to="/lawyers/david-hnatyshyn/"><Lawyer name="David Hnatyshyn, KC" email="dhnatyshyn@hglaw.ca" photo={david} /></Link>
         <Link to="/lawyers/anitha-joseph/"><Lawyer name="Anitha Joseph" email="ajoseph@hglaw.ca" photo={anitha} /></Link>
         <Link to="/lawyers/tonya-lambert/"><Lawyer name="Tonya Lambert" email="tlambert@hglaw.ca" photo={tonya} /></Link>
         <Link to="/lawyers/don-mciver/"><Lawyer name="Don McIver, KC" email="dmciver@hglaw.ca" photo={don} /></Link>
