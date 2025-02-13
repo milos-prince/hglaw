@@ -12,11 +12,19 @@ const Contact = () => (
    <section className="contact-content">
     <div className="contact-info">
       <h2 className="uppercase">Contact us</h2>
-      <h4 className="uppercase">Mailing address</h4>
+
+      <h4 className="uppercase mt-20">Phone</h4>
+      <p className="mb-0">306-653-5150</p>
+
+      <h4 className="uppercase mt-20">Fax</h4>
+      <p className="mb-0">306-652-5859</p>
+
+      <h4 className="uppercase mt-20">Mailing address</h4>
       <p className="mb-0">601-402 21st Street East</p>
       <p className="mb-0">Saskatoon, SK</p>
+      <p className="mb-0">Canada</p>
       <p className="mb-0">S7K 0C3</p>
-      <p className="mb-0">CANADA</p>
+      
     </div>
     <div className="contact-form">
         <form name="contact" method="post" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/">
@@ -46,8 +54,31 @@ const Contact = () => (
       </form>
     </div>
    </section>
+   <h2 className="uppercase officesHeader">Offices</h2>
    <section className="contact-footer-map-wrapper">
-   <iframe className="contact-footer-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2449.415345455756!2d-106.66294348432893!3d52.126765779741625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5304f6d6b5ab9bb5%3A0x29755201f56de7af!2sHnatyshyn%20Gough!5e0!3m2!1sen!2sca!4v1611018992583!5m2!1sen!2sca" width="1400" height="500" frameBorder="0" allowFullScreen="" aria-hidden="false" tabIndex="0"></iframe>
+    <div className="saskatoon-info">
+    <h4 className="uppercase mt-20">Saskatoon Office</h4>
+        <p className="mb-0">6<sup>th</sup> Floor</p>
+        <p className="mb-0">402 21<sup>st</sup> Street East</p>
+        <p className="mb-0">Saskatoon, Saskatchewan</p>
+      <h4 className="uppercase mt-20">Hours:</h4>
+        <p className="mb-0">Monday to Friday</p>
+        <p className="mb-0">9:00am &#45; 5:00pm</p>
+        <p><i>*Closed over noon hour</i></p>
+        </div>
+        <div className="watrous-info">
+   <h4 className="uppercase mt-20">Watrous Office</h4>
+        <p className="mb-0">308 Main Street</p>
+        <p className="mb-0">Watrous, Saskatchewan</p>
+        <p className="mb-0"><i>*Unless otherwise expressly agreed to,
+        service will not be accepted at our Watrous office</i></p>
+      <h4 className="uppercase mt-20">Hours:</h4>
+        <p className="mb-0">Tuesday &amp; Friday</p>
+        <p>9:00am &#45; 5:00pm</p>
+        </div>
+      <iframe className="contact-footer-map saskatoon" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2449.415345455756!2d-106.66294348432893!3d52.126765779741625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5304f6d6b5ab9bb5%3A0x29755201f56de7af!2sHnatyshyn%20Gough!5e0!3m2!1sen!2sca!4v1611018992583!5m2!1sen!2sca" width="1400" height="500" allowFullScreen="" aria-hidden="false" tabIndex="0" />
+      <iframe className="contact-footer-map watrous" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4948.41635371585!2d-105.4668191708547!3d51.67433240875148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x531cad4c2eac0b05%3A0x573d44ae835a2051!2s308%20Main%20St%2C%20Watrous%2C%20SK%20S0K%200E1!5e0!3m2!1sen!2sca!4v1739485614137!5m2!1sen!2sca" width="1400" height="500" allowFullScreen="" aria-hidden="false" tabIndex="0" />
+   
    </section>
   </Layout>
 )

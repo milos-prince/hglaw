@@ -34,11 +34,24 @@ const Layout = ({ children }) => {
           <div className="footerContent">
             <img src={footerLogo} className="footer-logo" alt="footer logo" />
             <div>
-            <p>601-402 21st Street East 
-            <br />Saskatoon, Saskatchewan, Canada <br />S7K 0C3</p>
-            <p>Fax: (306) 652-5859<br />
+            <p>
             Phone: <a href="tel:306-653-5150">(306) 653-5150</a><br />
-            Email: <a href="mailto:hglaw@hglaw.ca">hglaw@hglaw.ca</a></p>
+            Fax: (306) 652-5859</p>
+            <p><b>Mailing address</b><br />
+            Hnatyshyn Gough <br />
+              601-402 21st Street East 
+            <br />Saskatoon, Saskatchewan, Canada <br />S7K 0C3</p>
+            </div>
+            <div>
+              <p>
+                <b>Saskatoon office</b><br />
+                6<sup>th</sup> Floor<br />
+                402 21<sup>st</sup> Street East<br />
+                Saskatoon, Saskatchewan <br />
+                <b>Watrous office</b><br />
+                308 Main Street<br />
+                Watrous, Saskatchewan
+              </p>
             </div>
             <div>
             <ul>
