@@ -35,8 +35,13 @@ const Layout = ({ children }) => {
             <img src={footerLogo} className="footer-logo" alt="footer logo" />
             <div>
             <p>
-            Phone: <a href="tel:306-653-5150">(306) 653-5150</a><br />
-            Fax: (306) 652-5859</p>
+            <b>Phone</b>
+             <br />
+             <a href="tel:306-653-5150">306-653-5150</a>
+             <br />
+            <b>Fax</b>
+            <br />
+            306-652-5859</p>
             <p><b>Mailing address</b><br />
             Hnatyshyn Gough <br />
               601-402 21st Street East 
@@ -48,6 +53,7 @@ const Layout = ({ children }) => {
                 6<sup>th</sup> Floor<br />
                 402 21<sup>st</sup> Street East<br />
                 Saskatoon, Saskatchewan <br />
+                <br />
                 <b>Watrous office</b><br />
                 308 Main Street<br />
                 Watrous, Saskatchewan
