@@ -38,7 +38,8 @@ const Layout = ({ children }) => {
             <b>Phone</b>
              <br />
              <a href="tel:306-653-5150">306-653-5150</a>
-             <br />
+             </p>
+             <p>
             <b>Fax</b>
             <br />
             306-652-5859</p>

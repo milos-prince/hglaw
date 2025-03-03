@@ -22,7 +22,7 @@ const Contact = () => (
       <h4 className="uppercase mt-20">Mailing address</h4>
       <p className="mb-0">Hnatyshyn Gough</p>
       <p className="mb-0">601-402 21st Street East</p>
-      <p className="mb-0">Saskatoon, SK</p>
+      <p className="mb-0">Saskatoon, Saskatchewan</p>
       <p className="mb-0">Canada</p>
       <p className="mb-0">S7K 0C3</p>
       
@@ -72,8 +72,7 @@ const Contact = () => (
    <h4 className="uppercase mt-20">Watrous Office</h4>
         <p className="mb-0">308 Main Street</p>
         <p className="mb-0">Watrous, Saskatchewan</p>
-        <p className="mb-0"><i>*Unless otherwise expressly agreed to,
-        service will not be accepted at our Watrous office</i></p>
+        <p className="mb-0"><i>*Please note that the Watrous office is <u><b>NOT</b></u> a proper address for service pursuant to Rule 12-9.</i></p>
       <h4 className="uppercase mt-20">Hours:</h4>
         <p className="mb-0">Tuesday &amp; Friday</p>
         <p>10:00am &#45; 2:00pm</p>
