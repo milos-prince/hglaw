@@ -63,6 +63,7 @@ const Contact = () => (
         <p className="mb-0">6<sup>th</sup> Floor</p>
         <p className="mb-0">402 21<sup>st</sup> Street East</p>
         <p className="mb-0">Saskatoon, Saskatchewan</p>
+        <br />
       <h4 className="uppercase mt-20">Hours:</h4>
         <p className="mb-0">Monday to Friday</p>
         <p className="mb-0">9:00am &#45; 5:00pm</p>
@@ -70,8 +71,7 @@ const Contact = () => (
         </div>
         <div className="watrous-info">
    <h4 className="uppercase mt-20">Watrous Office</h4>
-        <p className="mb-0">308 Main Street</p>
-        <p className="mb-0">Watrous, Saskatchewan</p>
+        <p>Hnatyshyn Gough attends Watrous on a weekly basis and providing services by appointment operates out of space rented at the Watrous Manitou Beach Heritage Centre. Please contact our office, 306-653-5150, for our scheduled dates in Watrous.</p>
         <p className="mb-0"><i>*Please note that the Watrous office is <u><b>NOT</b></u> a proper address for service pursuant to Rule 12-9.</i></p>
       <h4 className="uppercase mt-20">Hours:</h4>
         <p className="mb-0">Tuesday &amp; Friday</p>

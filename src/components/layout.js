@@ -56,7 +56,7 @@ const Layout = ({ children }) => {
                 Saskatoon, Saskatchewan <br />
                 <br />
                 <b>Watrous office</b><br />
-                308 Main Street<br />
+                By appointment only<br />
                 Watrous, Saskatchewan
               </p>
             </div>
