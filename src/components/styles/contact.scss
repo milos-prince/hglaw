@@ -10,6 +10,10 @@ $popsicle: linear-gradient(90deg, rgba(150,6,209,1) 0%, rgba(209,56,223,1) 16%, 
   background-size: cover;
 }
 
+.mauto{
+  max-width: 1200px;
+}
+
 .contact-content{
   width:100%;
   display: flex;
@@ -51,11 +55,12 @@ $popsicle: linear-gradient(90deg, rgba(150,6,209,1) 0%, rgba(209,56,223,1) 16%, 
 .contact-footer-map-wrapper{
   display:grid;
   grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
   
   .contact-footer-map{
     border:0;
     height:500px;
-    width:40vw;
+    width:100%;
     margin-bottom:0px;
   }
   @media screen and (max-width:900px){

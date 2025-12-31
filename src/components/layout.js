@@ -43,17 +43,13 @@ const Layout = ({ children }) => {
             <b>Fax</b>
             <br />
             306-652-5859</p>
-            <p><b>Mailing address</b><br />
-            Hnatyshyn Gough <br />
-              601-402 21st Street East 
-            <br />Saskatoon, Saskatchewan, Canada <br />S7K 0C3</p>
             </div>
             <div>
               <p>
                 <b>Saskatoon office</b><br />
-                6<sup>th</sup> Floor<br />
-                402 21<sup>st</sup> Street East<br />
+                1809 Lorne Avenue<br />
                 Saskatoon, Saskatchewan <br />
+                S7H 1Y5<br />
                 <br />
                 <b>Watrous office</b><br />
                 By appointment only<br />
