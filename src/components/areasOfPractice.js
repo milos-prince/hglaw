@@ -65,8 +65,8 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
     <li>Brent Gough, KC</li>
     <li>Adam Hnatyshyn</li>
     <li>Sarah Nordin</li>
-    <li>Labour arbitrators (see arbitration)</li>
     <li>Erin Pillipow</li>
+    <li>Labour arbitrators (see arbitration)</li>
   </ul>
   </div>
 </Accordian>
