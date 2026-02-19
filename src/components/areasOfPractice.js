@@ -28,7 +28,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
     <li>Adam Hnatyshyn</li>
     <li>Tonya Lambert</li>
     <li>Sarah Nordin</li>
-    
+    <li>Erin Pillipow</li>
   </ul>
   </div>
 </Accordian>
@@ -66,6 +66,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
     <li>Adam Hnatyshyn</li>
     <li>Sarah Nordin</li>
     <li>Labour arbitrators (see arbitration)</li>
+    <li>Erin Pillipow</li>
   </ul>
   </div>
 </Accordian>
@@ -81,6 +82,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
   <li>Tonya Lambert</li>
   <li>Sarah Nordin</li>
   <li>Laura Churchman</li>
+  <li>Erin Pillipow</li>
   </ul>
   </div>
 </Accordian>
@@ -138,6 +140,7 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
     <li>Laura Churchman</li>
     <li>Anitha Joseph</li>
     <li>Tonya Lambert</li>
+    <li>Erin Pillipow</li>
   </ul>
   </div>
 </Accordian>
