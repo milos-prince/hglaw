@@ -101,7 +101,18 @@ const AreasOfPractice = ({title, subtitle, paragraph}) => (
 <Accordian title="Real Estate">
   <div className="accordianContent">
   <p>Our lawyers are all available to assist you with your real estate transactions, including those involving residential, recreational, or commercial property. Whether you are buying, selling, transferring, or mortgaging property, Hnatyshyn Gough has an array of practitioners to handle any real estate transaction on your behalf.</p>
-  <Link to="/lawyers/">Our Lawyers</Link>
+  <h2>Real estate lawyers at Hnatyshyn Gough:</h2>
+  <ul>
+    <li>David Hnatyshyn, KC</li>
+    <li>Brent Gough, KC</li>
+	  <li>Jenny English</li>
+    <li>Adam Hnatyshyn</li>
+    <li>Gillian Gough</li>
+    <li>Laura Churchman</li>
+	  <li>Tonya Lambert</li>
+    <li>Anitha Joseph</li>
+    <li>Erin Pillipow</li>
+  </ul>
   </div>
 </Accordian>
 
