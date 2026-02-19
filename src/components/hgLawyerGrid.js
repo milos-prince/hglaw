@@ -14,6 +14,7 @@ import tonya from "../../static/img/tonyaWebsize.jpg"
 import laura from "../../static/img/lauraWebsize.jpg"
 import sheila from "../../static/img/sheila.jpg"
 import anitha from "../../static/img/anithaWebsize.jpg"
+import erin from "../../static/img/erin.jpg"
 
 
 const LawyerGrid = () => (
@@ -30,6 +31,7 @@ const LawyerGrid = () => (
         <Link to="/lawyers/tonya-lambert/"><Lawyer name="Tonya Lambert" email="tlambert@hglaw.ca" photo={tonya} /></Link>
         <Link to="/lawyers/don-mciver/"><Lawyer name="Don McIver, KC" email="dmciver@hglaw.ca" photo={don} /></Link>
         <Link to="/lawyers/sarah-nordin/"><Lawyer name="Sarah Nordin" email="snordin@hglaw.ca" photo={sarah} /></Link>
+        <Link to="/lawyers/erin-pillipow/"><Lawyer name="Erin Pillipow" email="epillipow@hglaw.ca" photo={erin} /></Link>
       </div>
 )
 
