@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 
 /*Globals*/
-$red:#A60000;
+$red:#000080;
 $popsicle: linear-gradient(90deg, rgba(150,6,209,1) 0%, rgba(209,56,223,1) 16%, rgb(92, 55, 194) 47%, rgb(29, 15, 231) 60%, rgba(72,199,241,1) 100%);
 $indent: 10vw;
 
@@ -188,8 +188,9 @@ header .headerMobile .linkUnderlineWrapper{
   margin:20px 0px;
 }
 .logo{
-  width:130px;
-  margin-top:-20px;
+  width:220px;
+  display:block;
+  margin-top:-8px;
 }
 .activeLink{
   border-bottom:2px solid $red;
@@ -230,8 +231,11 @@ footer{
     font-size:14px;
   }
   .footer-logo{
-    width:175px;
-    height:80px;
+    width:260px;
+    height:auto;
+    display:block;
+    align-self:flex-start;
+    margin-top:12px;
     @media screen and (max-width:820px) {
       margin:auto;
       margin-bottom:30px;
