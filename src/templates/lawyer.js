@@ -27,8 +27,7 @@ const LawyerTemplate = ({ data }) => {
         <p className="mb-0">{frontmatter?.practiceAreas}</p>        
       </div>
     </div>
-    <div className="lawyer-content" dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}>
-    
+    <div className="lawyer-content" dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}>    
     </div>
   </Layout>
   )

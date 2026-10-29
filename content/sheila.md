@@ -5,7 +5,7 @@ intro: Counsel
 assistant: Cathy Tickner
 assistantEmail: sdenysiuk@hglaw.ca
 practiceAreas: Arbitration, Employment law
-image: /img/sheila.jpg
+image: /img/sheila.png
 templateKey: lawyer-template
 metadata:
   description: Sheila, senior legal counsel at Hnatyshyn Gough, has practiced law for over 40 years. She graduated from the University of Saskatchewan with a BA (1978) and LLB (1981). Sheila has a wealth of experience as an arbitrator and is currently maintaining a limited practice.
