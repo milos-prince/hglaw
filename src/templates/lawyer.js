@@ -24,8 +24,7 @@ const LawyerTemplate = ({ data }) => {
         <h4 className="uppercase mb-11">Email</h4>
   <a className="assistant-email" href={"mailto:"+frontmatter?.assistantEmail}>{frontmatter?.assistantEmail}</a>
         <h4 className="uppercase mb-11 areas">Practice areas</h4>
-        <p className="mb-0">{frontmatter?.practiceAreas}</p>
-        {frontmatter?.name === "Gillian Gough" ? <h2 style={{marginTop: "20px"}}>Gillian Gough is currently on sabbatical.</h2> : ""}
+        <p className="mb-0">{frontmatter?.practiceAreas}</p>        
       </div>
     </div>
     <div className="lawyer-content" dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}>

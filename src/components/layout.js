@@ -12,7 +12,7 @@ import { Link } from "gatsby"
 import Header from "./header"
 import "./styles/layout.css"
 import "./styles/global.scss"
-import footerLogo from "../images/hgLogoInverse.png"
+import footerLogo from "../images/logo-inverse.svg"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
