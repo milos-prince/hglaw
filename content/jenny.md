@@ -5,7 +5,7 @@ intro: Partner
 assistant: Cathy Tickner
 assistantEmail: jenglish@hglaw.ca
 practiceAreas: Arbitration, Civil litigation, Family law
-image: /img/jenny.jpg
+image: /img/jenny.png
 templateKey: lawyer-template
 metadata:
   description: Jenny English joined Hnatyshyn Gough in early 2008. Prior to that time, she had a fairly broad practice, however, since being with the firm, her work has focused primarily on family law, child protection and civil litigation – she is also qualified as an arbitrator.

@@ -5,7 +5,7 @@ intro: Counsel
 assistant: Cathy Tickner
 assistantEmail: lbelloc-pinder@hglaw.ca
 practiceAreas: Arbitration, Civil litigation, Employment law
-image: /img/leslie.jpg
+image: /img/leslie.png
 templateKey: lawyer-template
 metadata:
   description: Leslie joined the firm in 1989 and was a partner until 2019. Her career was focused almost exclusively on litigation for 20 years, however, expanded to include administrative tribunal and adjudicative work 15 years ago.

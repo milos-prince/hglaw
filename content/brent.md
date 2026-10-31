@@ -5,7 +5,7 @@ intro: Counsel
 assistant: Cathy Tickner
 assistantEmail: bgough@hglaw.ca
 practiceAreas: Civil litigation, Construction law, Employment law, Mediation
-image: /img/brent.jpg
+image: /img/brent.png
 templateKey: lawyer-template
 metadata:
   description: Brent carries on a general practice of law with emphasis in the areas of construction law, administrative law, and civil litigation.  He has argued cases before all levels of Court in Saskatchewan, Federal Court of Appeal, Supreme Court of Canada, as well as various administrative tribunals, including Immigration Appeal Board, Immigration and Refugee Board, and private arbitrations.

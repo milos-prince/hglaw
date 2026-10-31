@@ -5,7 +5,7 @@ intro: Associate
 assistant: Cathy Tickner
 assistantEmail: tlambert@hglaw.ca
 practiceAreas: Civil Litigation, Family Law, Construction Law, Mediation, Real Estate. 
-image: /img/tonyaWebsize.jpg
+image: /img/tonyaWebsize.png
 templateKey: lawyer-template
 metadata:
   description: Tonya Lambert maintains a general practice with a focus on family law and real estate. She has appeared before the Court of King’s Bench and the Office of Residential Tenancies. In addition to being a lawyer, Tonya is also a mediator with specialized training in family mediation.

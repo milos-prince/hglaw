@@ -5,7 +5,7 @@ intro: Partner
 assistant: Cathy Tickner
 assistantEmail: ggough@hglaw.ca
 practiceAreas: Family law
-image: /img/gillian.jpg
+image: /img/gillian.png
 templateKey: lawyer-template
 metadata:
   description: Gillian joined Hnatyshyn Gough in June 2011 as an articling student and was called to the Saskatchewan Bar in June of 2012. Gillian obtained a Bachelor of Arts from the University of Saskatchewan in 2006, with a major in Spanish, winning the Most Distinguished Graduate in Languages. Gillian worked as an English teacher in South America before pursuing her studies in Law at the University of Saskatchewan. 
